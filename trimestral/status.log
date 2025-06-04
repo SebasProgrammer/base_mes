@@ -1,0 +1,713 @@
+2025/06/02 12:04:13 PM - src.logger - INFO - Logging timestamps are respect to America/Lima timezone
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2007-3T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2007-3T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2007-3T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2007-4T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2007-4T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2007-4T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2008-1T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2008-1T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2008-1T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2008-2T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2008-2T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2008-2T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2008-3T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2008-3T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2008-3T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2008-4T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2008-4T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2008-4T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 4602 of type <class 'int'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=4602.0000] in table vivienda_tri for quarter 2009-1T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 318 of type <class 'int'>
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=318.0000] in table vivienda_tri for quarter 2009-1T
+2025/06/02 12:04:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:24 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 4284 of type <class 'int'>
+2025/06/02 12:04:25 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=4284.0000] in table vivienda_tri for quarter 2009-1T
+2025/06/02 12:04:25 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:25 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 5447 of type <class 'int'>
+2025/06/02 12:04:25 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=5447.0000] in table vivienda_tri for quarter 2009-2T
+2025/06/02 12:04:25 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:25 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 1001 of type <class 'int'>
+2025/06/02 12:04:25 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=1001.0000] in table vivienda_tri for quarter 2009-2T
+2025/06/02 12:04:25 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:25 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 4446 of type <class 'int'>
+2025/06/02 12:04:26 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=4446.0000] in table vivienda_tri for quarter 2009-2T
+2025/06/02 12:04:26 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:26 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 6696 of type <class 'int'>
+2025/06/02 12:04:26 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=6696.0000] in table vivienda_tri for quarter 2009-3T
+2025/06/02 12:04:26 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:26 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 1632 of type <class 'int'>
+2025/06/02 12:04:26 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=1632.0000] in table vivienda_tri for quarter 2009-3T
+2025/06/02 12:04:26 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:26 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 5064 of type <class 'int'>
+2025/06/02 12:04:27 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=5064.0000] in table vivienda_tri for quarter 2009-3T
+2025/06/02 12:04:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 9480 of type <class 'int'>
+2025/06/02 12:04:27 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=9480.0000] in table vivienda_tri for quarter 2009-4T
+2025/06/02 12:04:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2680 of type <class 'int'>
+2025/06/02 12:04:27 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2680.0000] in table vivienda_tri for quarter 2009-4T
+2025/06/02 12:04:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:27 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6800 of type <class 'int'>
+2025/06/02 12:04:28 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6800.0000] in table vivienda_tri for quarter 2009-4T
+2025/06/02 12:04:28 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:28 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 8703 of type <class 'int'>
+2025/06/02 12:04:28 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=8703.0000] in table vivienda_tri for quarter 2010-1T
+2025/06/02 12:04:28 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:28 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2509 of type <class 'int'>
+2025/06/02 12:04:28 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2509.0000] in table vivienda_tri for quarter 2010-1T
+2025/06/02 12:04:28 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:28 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6194 of type <class 'int'>
+2025/06/02 12:04:29 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6194.0000] in table vivienda_tri for quarter 2010-1T
+2025/06/02 12:04:29 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:29 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 8478 of type <class 'int'>
+2025/06/02 12:04:29 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=8478.0000] in table vivienda_tri for quarter 2010-2T
+2025/06/02 12:04:29 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:29 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2589 of type <class 'int'>
+2025/06/02 12:04:29 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2589.0000] in table vivienda_tri for quarter 2010-2T
+2025/06/02 12:04:29 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:29 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 5889 of type <class 'int'>
+2025/06/02 12:04:30 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=5889.0000] in table vivienda_tri for quarter 2010-2T
+2025/06/02 12:04:30 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:30 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 9425 of type <class 'int'>
+2025/06/02 12:04:30 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=9425.0000] in table vivienda_tri for quarter 2010-3T
+2025/06/02 12:04:30 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:30 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3227 of type <class 'int'>
+2025/06/02 12:04:30 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3227.0000] in table vivienda_tri for quarter 2010-3T
+2025/06/02 12:04:30 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:30 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6198 of type <class 'int'>
+2025/06/02 12:04:31 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6198.0000] in table vivienda_tri for quarter 2010-3T
+2025/06/02 12:04:31 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:31 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 9970 of type <class 'int'>
+2025/06/02 12:04:31 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=9970.0000] in table vivienda_tri for quarter 2010-4T
+2025/06/02 12:04:31 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:31 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3477 of type <class 'int'>
+2025/06/02 12:04:31 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3477.0000] in table vivienda_tri for quarter 2010-4T
+2025/06/02 12:04:31 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:31 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6493 of type <class 'int'>
+2025/06/02 12:04:32 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6493.0000] in table vivienda_tri for quarter 2010-4T
+2025/06/02 12:04:32 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:32 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10435 of type <class 'int'>
+2025/06/02 12:04:32 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10435.0000] in table vivienda_tri for quarter 2011-1T
+2025/06/02 12:04:32 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:32 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3760 of type <class 'int'>
+2025/06/02 12:04:32 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3760.0000] in table vivienda_tri for quarter 2011-1T
+2025/06/02 12:04:32 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:32 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6675 of type <class 'int'>
+2025/06/02 12:04:33 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6675.0000] in table vivienda_tri for quarter 2011-1T
+2025/06/02 12:04:33 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:33 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10774 of type <class 'int'>
+2025/06/02 12:04:33 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10774.0000] in table vivienda_tri for quarter 2011-2T
+2025/06/02 12:04:33 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:33 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3610 of type <class 'int'>
+2025/06/02 12:04:33 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3610.0000] in table vivienda_tri for quarter 2011-2T
+2025/06/02 12:04:33 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:33 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7164 of type <class 'int'>
+2025/06/02 12:04:34 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7164.0000] in table vivienda_tri for quarter 2011-2T
+2025/06/02 12:04:34 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:34 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10772 of type <class 'int'>
+2025/06/02 12:04:34 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10772.0000] in table vivienda_tri for quarter 2011-3T
+2025/06/02 12:04:34 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:34 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3528 of type <class 'int'>
+2025/06/02 12:04:34 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3528.0000] in table vivienda_tri for quarter 2011-3T
+2025/06/02 12:04:34 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:34 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7244 of type <class 'int'>
+2025/06/02 12:04:35 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7244.0000] in table vivienda_tri for quarter 2011-3T
+2025/06/02 12:04:35 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:35 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 11371 of type <class 'int'>
+2025/06/02 12:04:35 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=11371.0000] in table vivienda_tri for quarter 2011-4T
+2025/06/02 12:04:35 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:35 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3981 of type <class 'int'>
+2025/06/02 12:04:35 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3981.0000] in table vivienda_tri for quarter 2011-4T
+2025/06/02 12:04:35 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:35 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7390 of type <class 'int'>
+2025/06/02 12:04:36 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7390.0000] in table vivienda_tri for quarter 2011-4T
+2025/06/02 12:04:36 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:36 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10893 of type <class 'int'>
+2025/06/02 12:04:36 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10893.0000] in table vivienda_tri for quarter 2012-1T
+2025/06/02 12:04:36 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:36 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3578 of type <class 'int'>
+2025/06/02 12:04:36 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3578.0000] in table vivienda_tri for quarter 2012-1T
+2025/06/02 12:04:36 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:36 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7315 of type <class 'int'>
+2025/06/02 12:04:37 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7315.0000] in table vivienda_tri for quarter 2012-1T
+2025/06/02 12:04:37 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:37 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10861 of type <class 'int'>
+2025/06/02 12:04:37 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10861.0000] in table vivienda_tri for quarter 2012-2T
+2025/06/02 12:04:37 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:37 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3257 of type <class 'int'>
+2025/06/02 12:04:37 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3257.0000] in table vivienda_tri for quarter 2012-2T
+2025/06/02 12:04:37 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:37 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7604 of type <class 'int'>
+2025/06/02 12:04:38 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7604.0000] in table vivienda_tri for quarter 2012-2T
+2025/06/02 12:04:38 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:38 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 12143 of type <class 'int'>
+2025/06/02 12:04:38 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=12143.0000] in table vivienda_tri for quarter 2012-3T
+2025/06/02 12:04:38 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:38 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3761 of type <class 'int'>
+2025/06/02 12:04:38 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3761.0000] in table vivienda_tri for quarter 2012-3T
+2025/06/02 12:04:38 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:38 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8382 of type <class 'int'>
+2025/06/02 12:04:39 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8382.0000] in table vivienda_tri for quarter 2012-3T
+2025/06/02 12:04:39 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:39 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 12301 of type <class 'int'>
+2025/06/02 12:04:39 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=12301.0000] in table vivienda_tri for quarter 2012-4T
+2025/06/02 12:04:39 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:39 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3847 of type <class 'int'>
+2025/06/02 12:04:39 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3847.0000] in table vivienda_tri for quarter 2012-4T
+2025/06/02 12:04:39 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:39 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8454 of type <class 'int'>
+2025/06/02 12:04:40 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8454.0000] in table vivienda_tri for quarter 2012-4T
+2025/06/02 12:04:40 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:40 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10323 of type <class 'int'>
+2025/06/02 12:04:40 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10323.0000] in table vivienda_tri for quarter 2013-1T
+2025/06/02 12:04:40 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:40 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3413 of type <class 'int'>
+2025/06/02 12:04:40 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3413.0000] in table vivienda_tri for quarter 2013-1T
+2025/06/02 12:04:40 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:40 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6910 of type <class 'int'>
+2025/06/02 12:04:40 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6910.0000] in table vivienda_tri for quarter 2013-1T
+2025/06/02 12:04:40 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:40 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 11329 of type <class 'int'>
+2025/06/02 12:04:41 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=11329.0000] in table vivienda_tri for quarter 2013-2T
+2025/06/02 12:04:41 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:41 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3660 of type <class 'int'>
+2025/06/02 12:04:41 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3660.0000] in table vivienda_tri for quarter 2013-2T
+2025/06/02 12:04:41 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:41 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7669 of type <class 'int'>
+2025/06/02 12:04:41 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7669.0000] in table vivienda_tri for quarter 2013-2T
+2025/06/02 12:04:41 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:41 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 11001 of type <class 'int'>
+2025/06/02 12:04:42 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=11001.0000] in table vivienda_tri for quarter 2013-3T
+2025/06/02 12:04:42 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:42 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 4151 of type <class 'int'>
+2025/06/02 12:04:42 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=4151.0000] in table vivienda_tri for quarter 2013-3T
+2025/06/02 12:04:42 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:42 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6850 of type <class 'int'>
+2025/06/02 12:04:42 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6850.0000] in table vivienda_tri for quarter 2013-3T
+2025/06/02 12:04:42 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:42 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10199 of type <class 'int'>
+2025/06/02 12:04:43 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10199.0000] in table vivienda_tri for quarter 2013-4T
+2025/06/02 12:04:43 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:43 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3491 of type <class 'int'>
+2025/06/02 12:04:43 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3491.0000] in table vivienda_tri for quarter 2013-4T
+2025/06/02 12:04:43 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:43 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6708 of type <class 'int'>
+2025/06/02 12:04:43 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6708.0000] in table vivienda_tri for quarter 2013-4T
+2025/06/02 12:04:43 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:43 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10458 of type <class 'int'>
+2025/06/02 12:04:44 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10458.0000] in table vivienda_tri for quarter 2014-1T
+2025/06/02 12:04:44 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:44 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3395 of type <class 'int'>
+2025/06/02 12:04:44 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3395.0000] in table vivienda_tri for quarter 2014-1T
+2025/06/02 12:04:44 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:44 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7063 of type <class 'int'>
+2025/06/02 12:04:44 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7063.0000] in table vivienda_tri for quarter 2014-1T
+2025/06/02 12:04:44 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:44 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 11108 of type <class 'int'>
+2025/06/02 12:04:45 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=11108.0000] in table vivienda_tri for quarter 2014-2T
+2025/06/02 12:04:45 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:45 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3645 of type <class 'int'>
+2025/06/02 12:04:45 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3645.0000] in table vivienda_tri for quarter 2014-2T
+2025/06/02 12:04:45 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:45 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7463 of type <class 'int'>
+2025/06/02 12:04:45 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7463.0000] in table vivienda_tri for quarter 2014-2T
+2025/06/02 12:04:45 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:45 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10969 of type <class 'int'>
+2025/06/02 12:04:46 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10969.0000] in table vivienda_tri for quarter 2014-3T
+2025/06/02 12:04:46 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:46 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3744 of type <class 'int'>
+2025/06/02 12:04:46 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3744.0000] in table vivienda_tri for quarter 2014-3T
+2025/06/02 12:04:46 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:46 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7225 of type <class 'int'>
+2025/06/02 12:04:46 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7225.0000] in table vivienda_tri for quarter 2014-3T
+2025/06/02 12:04:46 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:46 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10249 of type <class 'int'>
+2025/06/02 12:04:47 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10249.0000] in table vivienda_tri for quarter 2014-4T
+2025/06/02 12:04:47 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:47 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2930 of type <class 'int'>
+2025/06/02 12:04:47 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2930.0000] in table vivienda_tri for quarter 2014-4T
+2025/06/02 12:04:47 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:47 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7319 of type <class 'int'>
+2025/06/02 12:04:47 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7319.0000] in table vivienda_tri for quarter 2014-4T
+2025/06/02 12:04:47 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:47 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 9348 of type <class 'int'>
+2025/06/02 12:04:48 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=9348.0000] in table vivienda_tri for quarter 2015-1T
+2025/06/02 12:04:48 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:48 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2615 of type <class 'int'>
+2025/06/02 12:04:48 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2615.0000] in table vivienda_tri for quarter 2015-1T
+2025/06/02 12:04:48 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:48 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6733 of type <class 'int'>
+2025/06/02 12:04:48 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6733.0000] in table vivienda_tri for quarter 2015-1T
+2025/06/02 12:04:48 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:48 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 9696 of type <class 'int'>
+2025/06/02 12:04:49 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=9696.0000] in table vivienda_tri for quarter 2015-2T
+2025/06/02 12:04:49 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:49 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2570 of type <class 'int'>
+2025/06/02 12:04:49 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2570.0000] in table vivienda_tri for quarter 2015-2T
+2025/06/02 12:04:49 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:49 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7126 of type <class 'int'>
+2025/06/02 12:04:49 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7126.0000] in table vivienda_tri for quarter 2015-2T
+2025/06/02 12:04:49 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:49 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10468 of type <class 'int'>
+2025/06/02 12:04:50 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10468.0000] in table vivienda_tri for quarter 2015-3T
+2025/06/02 12:04:50 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:50 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3031 of type <class 'int'>
+2025/06/02 12:04:50 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3031.0000] in table vivienda_tri for quarter 2015-3T
+2025/06/02 12:04:50 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:50 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7437 of type <class 'int'>
+2025/06/02 12:04:50 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7437.0000] in table vivienda_tri for quarter 2015-3T
+2025/06/02 12:04:50 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:50 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 9749 of type <class 'int'>
+2025/06/02 12:04:51 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=9749.0000] in table vivienda_tri for quarter 2015-4T
+2025/06/02 12:04:51 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:51 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2848 of type <class 'int'>
+2025/06/02 12:04:51 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2848.0000] in table vivienda_tri for quarter 2015-4T
+2025/06/02 12:04:51 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:51 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6901 of type <class 'int'>
+2025/06/02 12:04:51 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6901.0000] in table vivienda_tri for quarter 2015-4T
+2025/06/02 12:04:51 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:51 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 8264 of type <class 'int'>
+2025/06/02 12:04:52 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=8264.0000] in table vivienda_tri for quarter 2016-1T
+2025/06/02 12:04:52 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:52 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2147 of type <class 'int'>
+2025/06/02 12:04:52 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2147.0000] in table vivienda_tri for quarter 2016-1T
+2025/06/02 12:04:52 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:52 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6117 of type <class 'int'>
+2025/06/02 12:04:52 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6117.0000] in table vivienda_tri for quarter 2016-1T
+2025/06/02 12:04:52 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:52 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 9168 of type <class 'int'>
+2025/06/02 12:04:53 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=9168.0000] in table vivienda_tri for quarter 2016-2T
+2025/06/02 12:04:53 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:53 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2844 of type <class 'int'>
+2025/06/02 12:04:53 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2844.0000] in table vivienda_tri for quarter 2016-2T
+2025/06/02 12:04:53 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:53 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6324 of type <class 'int'>
+2025/06/02 12:04:53 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6324.0000] in table vivienda_tri for quarter 2016-2T
+2025/06/02 12:04:53 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:53 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 8928 of type <class 'int'>
+2025/06/02 12:04:54 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=8928.0000] in table vivienda_tri for quarter 2016-3T
+2025/06/02 12:04:54 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:54 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2132 of type <class 'int'>
+2025/06/02 12:04:54 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2132.0000] in table vivienda_tri for quarter 2016-3T
+2025/06/02 12:04:54 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:54 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6796 of type <class 'int'>
+2025/06/02 12:04:54 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6796.0000] in table vivienda_tri for quarter 2016-3T
+2025/06/02 12:04:54 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:54 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 9681 of type <class 'int'>
+2025/06/02 12:04:54 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=9681.0000] in table vivienda_tri for quarter 2016-4T
+2025/06/02 12:04:54 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:54 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2326 of type <class 'int'>
+2025/06/02 12:04:55 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2326.0000] in table vivienda_tri for quarter 2016-4T
+2025/06/02 12:04:55 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:55 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7355 of type <class 'int'>
+2025/06/02 12:04:55 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7355.0000] in table vivienda_tri for quarter 2016-4T
+2025/06/02 12:04:55 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:55 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 8866 of type <class 'int'>
+2025/06/02 12:04:55 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=8866.0000] in table vivienda_tri for quarter 2017-1T
+2025/06/02 12:04:55 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:55 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2059 of type <class 'int'>
+2025/06/02 12:04:56 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2059.0000] in table vivienda_tri for quarter 2017-1T
+2025/06/02 12:04:56 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:56 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6807 of type <class 'int'>
+2025/06/02 12:04:56 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6807.0000] in table vivienda_tri for quarter 2017-1T
+2025/06/02 12:04:56 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:56 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 8807 of type <class 'int'>
+2025/06/02 12:04:56 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=8807.0000] in table vivienda_tri for quarter 2017-2T
+2025/06/02 12:04:56 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:56 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 1512 of type <class 'int'>
+2025/06/02 12:04:57 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=1512.0000] in table vivienda_tri for quarter 2017-2T
+2025/06/02 12:04:57 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:57 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7295 of type <class 'int'>
+2025/06/02 12:04:57 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7295.0000] in table vivienda_tri for quarter 2017-2T
+2025/06/02 12:04:57 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:57 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 11121 of type <class 'int'>
+2025/06/02 12:04:57 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=11121.0000] in table vivienda_tri for quarter 2017-3T
+2025/06/02 12:04:57 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:57 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3132 of type <class 'int'>
+2025/06/02 12:04:58 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3132.0000] in table vivienda_tri for quarter 2017-3T
+2025/06/02 12:04:58 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:58 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7989 of type <class 'int'>
+2025/06/02 12:04:58 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7989.0000] in table vivienda_tri for quarter 2017-3T
+2025/06/02 12:04:58 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:58 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 11198 of type <class 'int'>
+2025/06/02 12:04:58 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=11198.0000] in table vivienda_tri for quarter 2017-4T
+2025/06/02 12:04:58 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:58 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3162 of type <class 'int'>
+2025/06/02 12:04:59 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3162.0000] in table vivienda_tri for quarter 2017-4T
+2025/06/02 12:04:59 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:04:59 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8036 of type <class 'int'>
+2025/06/02 12:04:59 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8036.0000] in table vivienda_tri for quarter 2017-4T
+2025/06/02 12:04:59 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:04:59 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10715 of type <class 'int'>
+2025/06/02 12:04:59 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10715.0000] in table vivienda_tri for quarter 2018-1T
+2025/06/02 12:04:59 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:04:59 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2377 of type <class 'int'>
+2025/06/02 12:05:00 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2377.0000] in table vivienda_tri for quarter 2018-1T
+2025/06/02 12:05:00 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:00 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8338 of type <class 'int'>
+2025/06/02 12:05:00 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8338.0000] in table vivienda_tri for quarter 2018-1T
+2025/06/02 12:05:00 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:00 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 12224 of type <class 'int'>
+2025/06/02 12:05:00 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=12224.0000] in table vivienda_tri for quarter 2018-2T
+2025/06/02 12:05:00 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:00 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 2936 of type <class 'int'>
+2025/06/02 12:05:01 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=2936.0000] in table vivienda_tri for quarter 2018-2T
+2025/06/02 12:05:01 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:01 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 9288 of type <class 'int'>
+2025/06/02 12:05:01 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=9288.0000] in table vivienda_tri for quarter 2018-2T
+2025/06/02 12:05:01 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:01 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 12213 of type <class 'int'>
+2025/06/02 12:05:01 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=12213.0000] in table vivienda_tri for quarter 2018-3T
+2025/06/02 12:05:01 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:01 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3579 of type <class 'int'>
+2025/06/02 12:05:02 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3579.0000] in table vivienda_tri for quarter 2018-3T
+2025/06/02 12:05:02 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:02 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8634 of type <class 'int'>
+2025/06/02 12:05:02 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8634.0000] in table vivienda_tri for quarter 2018-3T
+2025/06/02 12:05:02 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:02 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 12495 of type <class 'int'>
+2025/06/02 12:05:02 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=12495.0000] in table vivienda_tri for quarter 2018-4T
+2025/06/02 12:05:02 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:02 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 4180 of type <class 'int'>
+2025/06/02 12:05:03 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=4180.0000] in table vivienda_tri for quarter 2018-4T
+2025/06/02 12:05:03 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:03 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8315 of type <class 'int'>
+2025/06/02 12:05:03 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8315.0000] in table vivienda_tri for quarter 2018-4T
+2025/06/02 12:05:03 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:03 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10554 of type <class 'int'>
+2025/06/02 12:05:03 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10554.0000] in table vivienda_tri for quarter 2019-1T
+2025/06/02 12:05:03 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:03 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3702 of type <class 'int'>
+2025/06/02 12:05:04 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3702.0000] in table vivienda_tri for quarter 2019-1T
+2025/06/02 12:05:04 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:04 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6852 of type <class 'int'>
+2025/06/02 12:05:04 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6852.0000] in table vivienda_tri for quarter 2019-1T
+2025/06/02 12:05:04 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:04 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 12679 of type <class 'int'>
+2025/06/02 12:05:04 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=12679.0000] in table vivienda_tri for quarter 2019-2T
+2025/06/02 12:05:04 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:04 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 4930 of type <class 'int'>
+2025/06/02 12:05:05 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=4930.0000] in table vivienda_tri for quarter 2019-2T
+2025/06/02 12:05:05 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:05 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7749 of type <class 'int'>
+2025/06/02 12:05:05 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7749.0000] in table vivienda_tri for quarter 2019-2T
+2025/06/02 12:05:05 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:05 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 13890 of type <class 'int'>
+2025/06/02 12:05:05 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=13890.0000] in table vivienda_tri for quarter 2019-3T
+2025/06/02 12:05:05 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:05 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 5581 of type <class 'int'>
+2025/06/02 12:05:06 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=5581.0000] in table vivienda_tri for quarter 2019-3T
+2025/06/02 12:05:06 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:06 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8309 of type <class 'int'>
+2025/06/02 12:05:06 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8309.0000] in table vivienda_tri for quarter 2019-3T
+2025/06/02 12:05:06 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:06 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 14834 of type <class 'int'>
+2025/06/02 12:05:06 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=14834.0000] in table vivienda_tri for quarter 2019-4T
+2025/06/02 12:05:06 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:06 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 6352 of type <class 'int'>
+2025/06/02 12:05:07 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=6352.0000] in table vivienda_tri for quarter 2019-4T
+2025/06/02 12:05:07 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:07 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8482 of type <class 'int'>
+2025/06/02 12:05:07 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8482.0000] in table vivienda_tri for quarter 2019-4T
+2025/06/02 12:05:07 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:07 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10023 of type <class 'int'>
+2025/06/02 12:05:07 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10023.0000] in table vivienda_tri for quarter 2020-1T
+2025/06/02 12:05:07 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:07 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3593 of type <class 'int'>
+2025/06/02 12:05:08 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3593.0000] in table vivienda_tri for quarter 2020-1T
+2025/06/02 12:05:08 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:08 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6430 of type <class 'int'>
+2025/06/02 12:05:08 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6430.0000] in table vivienda_tri for quarter 2020-1T
+2025/06/02 12:05:08 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:08 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 3064 of type <class 'int'>
+2025/06/02 12:05:08 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=3064.0000] in table vivienda_tri for quarter 2020-2T
+2025/06/02 12:05:08 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:08 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 1109 of type <class 'int'>
+2025/06/02 12:05:09 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=1109.0000] in table vivienda_tri for quarter 2020-2T
+2025/06/02 12:05:09 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:09 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 1955 of type <class 'int'>
+2025/06/02 12:05:09 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=1955.0000] in table vivienda_tri for quarter 2020-2T
+2025/06/02 12:05:09 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:09 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 8406 of type <class 'int'>
+2025/06/02 12:05:09 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=8406.0000] in table vivienda_tri for quarter 2020-3T
+2025/06/02 12:05:09 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:09 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3390 of type <class 'int'>
+2025/06/02 12:05:10 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3390.0000] in table vivienda_tri for quarter 2020-3T
+2025/06/02 12:05:10 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:10 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 5016 of type <class 'int'>
+2025/06/02 12:05:10 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=5016.0000] in table vivienda_tri for quarter 2020-3T
+2025/06/02 12:05:10 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:10 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 13298 of type <class 'int'>
+2025/06/02 12:05:10 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=13298.0000] in table vivienda_tri for quarter 2020-4T
+2025/06/02 12:05:10 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:10 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 4849 of type <class 'int'>
+2025/06/02 12:05:10 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=4849.0000] in table vivienda_tri for quarter 2020-4T
+2025/06/02 12:05:10 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:10 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8449 of type <class 'int'>
+2025/06/02 12:05:11 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8449.0000] in table vivienda_tri for quarter 2020-4T
+2025/06/02 12:05:11 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:11 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 13937 of type <class 'int'>
+2025/06/02 12:05:11 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=13937.0000] in table vivienda_tri for quarter 2021-1T
+2025/06/02 12:05:11 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:11 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 4876 of type <class 'int'>
+2025/06/02 12:05:11 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=4876.0000] in table vivienda_tri for quarter 2021-1T
+2025/06/02 12:05:11 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:11 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 9061 of type <class 'int'>
+2025/06/02 12:05:12 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=9061.0000] in table vivienda_tri for quarter 2021-1T
+2025/06/02 12:05:12 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:12 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 15162 of type <class 'int'>
+2025/06/02 12:05:12 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=15162.0000] in table vivienda_tri for quarter 2021-2T
+2025/06/02 12:05:12 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:12 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 6072 of type <class 'int'>
+2025/06/02 12:05:12 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=6072.0000] in table vivienda_tri for quarter 2021-2T
+2025/06/02 12:05:12 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:12 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 9090 of type <class 'int'>
+2025/06/02 12:05:13 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=9090.0000] in table vivienda_tri for quarter 2021-2T
+2025/06/02 12:05:13 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:13 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 14321 of type <class 'int'>
+2025/06/02 12:05:13 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=14321.0000] in table vivienda_tri for quarter 2021-3T
+2025/06/02 12:05:13 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:13 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 4065 of type <class 'int'>
+2025/06/02 12:05:13 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=4065.0000] in table vivienda_tri for quarter 2021-3T
+2025/06/02 12:05:13 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:13 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 10256 of type <class 'int'>
+2025/06/02 12:05:14 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=10256.0000] in table vivienda_tri for quarter 2021-3T
+2025/06/02 12:05:14 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:14 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 15277 of type <class 'int'>
+2025/06/02 12:05:14 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=15277.0000] in table vivienda_tri for quarter 2021-4T
+2025/06/02 12:05:14 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:14 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 7420 of type <class 'int'>
+2025/06/02 12:05:14 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=7420.0000] in table vivienda_tri for quarter 2021-4T
+2025/06/02 12:05:14 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:14 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7857 of type <class 'int'>
+2025/06/02 12:05:15 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7857.0000] in table vivienda_tri for quarter 2021-4T
+2025/06/02 12:05:15 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:15 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 16098 of type <class 'int'>
+2025/06/02 12:05:15 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=16098.0000] in table vivienda_tri for quarter 2022-1T
+2025/06/02 12:05:15 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:15 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 8358 of type <class 'int'>
+2025/06/02 12:05:15 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=8358.0000] in table vivienda_tri for quarter 2022-1T
+2025/06/02 12:05:15 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:15 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7740 of type <class 'int'>
+2025/06/02 12:05:16 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7740.0000] in table vivienda_tri for quarter 2022-1T
+2025/06/02 12:05:16 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:16 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 13724 of type <class 'int'>
+2025/06/02 12:05:16 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=13724.0000] in table vivienda_tri for quarter 2022-2T
+2025/06/02 12:05:16 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:16 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 5574 of type <class 'int'>
+2025/06/02 12:05:16 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=5574.0000] in table vivienda_tri for quarter 2022-2T
+2025/06/02 12:05:16 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:16 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8150 of type <class 'int'>
+2025/06/02 12:05:17 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8150.0000] in table vivienda_tri for quarter 2022-2T
+2025/06/02 12:05:17 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:17 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 12400 of type <class 'int'>
+2025/06/02 12:05:17 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=12400.0000] in table vivienda_tri for quarter 2022-3T
+2025/06/02 12:05:17 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:17 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 7000 of type <class 'int'>
+2025/06/02 12:05:17 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=7000.0000] in table vivienda_tri for quarter 2022-3T
+2025/06/02 12:05:17 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:17 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 5400 of type <class 'int'>
+2025/06/02 12:05:18 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=5400.0000] in table vivienda_tri for quarter 2022-3T
+2025/06/02 12:05:18 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:18 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 13990 of type <class 'int'>
+2025/06/02 12:05:18 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=13990.0000] in table vivienda_tri for quarter 2022-4T
+2025/06/02 12:05:18 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:18 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 8892 of type <class 'int'>
+2025/06/02 12:05:18 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=8892.0000] in table vivienda_tri for quarter 2022-4T
+2025/06/02 12:05:18 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:18 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 5098 of type <class 'int'>
+2025/06/02 12:05:19 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=5098.0000] in table vivienda_tri for quarter 2022-4T
+2025/06/02 12:05:19 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:19 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10581 of type <class 'int'>
+2025/06/02 12:05:19 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10581.0000] in table vivienda_tri for quarter 2023-1T
+2025/06/02 12:05:19 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:19 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 5501 of type <class 'int'>
+2025/06/02 12:05:19 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=5501.0000] in table vivienda_tri for quarter 2023-1T
+2025/06/02 12:05:19 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:19 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 5080 of type <class 'int'>
+2025/06/02 12:05:20 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=5080.0000] in table vivienda_tri for quarter 2023-1T
+2025/06/02 12:05:20 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:20 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10513 of type <class 'int'>
+2025/06/02 12:05:20 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10513.0000] in table vivienda_tri for quarter 2023-2T
+2025/06/02 12:05:20 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:20 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 5365 of type <class 'int'>
+2025/06/02 12:05:20 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=5365.0000] in table vivienda_tri for quarter 2023-2T
+2025/06/02 12:05:20 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:20 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 5148 of type <class 'int'>
+2025/06/02 12:05:21 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=5148.0000] in table vivienda_tri for quarter 2023-2T
+2025/06/02 12:05:21 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:21 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 10498 of type <class 'int'>
+2025/06/02 12:05:21 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=10498.0000] in table vivienda_tri for quarter 2023-3T
+2025/06/02 12:05:21 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:21 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 4115 of type <class 'int'>
+2025/06/02 12:05:21 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=4115.0000] in table vivienda_tri for quarter 2023-3T
+2025/06/02 12:05:21 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:21 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6383 of type <class 'int'>
+2025/06/02 12:05:22 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6383.0000] in table vivienda_tri for quarter 2023-3T
+2025/06/02 12:05:22 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:22 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 11081 of type <class 'int'>
+2025/06/02 12:05:22 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=11081.0000] in table vivienda_tri for quarter 2023-4T
+2025/06/02 12:05:22 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:22 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 4903 of type <class 'int'>
+2025/06/02 12:05:22 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=4903.0000] in table vivienda_tri for quarter 2023-4T
+2025/06/02 12:05:22 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:22 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 6178 of type <class 'int'>
+2025/06/02 12:05:23 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=6178.0000] in table vivienda_tri for quarter 2023-4T
+2025/06/02 12:05:23 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:23 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 11344 of type <class 'int'>
+2025/06/02 12:05:23 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=11344.0000] in table vivienda_tri for quarter 2024-1T
+2025/06/02 12:05:23 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:23 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 5419 of type <class 'int'>
+2025/06/02 12:05:23 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=5419.0000] in table vivienda_tri for quarter 2024-1T
+2025/06/02 12:05:23 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:23 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 5925 of type <class 'int'>
+2025/06/02 12:05:24 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=5925.0000] in table vivienda_tri for quarter 2024-1T
+2025/06/02 12:05:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 11516 of type <class 'int'>
+2025/06/02 12:05:24 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=11516.0000] in table vivienda_tri for quarter 2024-2T
+2025/06/02 12:05:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 4340 of type <class 'int'>
+2025/06/02 12:05:24 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=4340.0000] in table vivienda_tri for quarter 2024-2T
+2025/06/02 12:05:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:24 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7176 of type <class 'int'>
+2025/06/02 12:05:24 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7176.0000] in table vivienda_tri for quarter 2024-2T
+2025/06/02 12:05:24 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:24 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 12352 of type <class 'int'>
+2025/06/02 12:05:25 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=12352.0000] in table vivienda_tri for quarter 2024-3T
+2025/06/02 12:05:25 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:25 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 5178 of type <class 'int'>
+2025/06/02 12:05:25 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=5178.0000] in table vivienda_tri for quarter 2024-3T
+2025/06/02 12:05:25 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:25 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 7174 of type <class 'int'>
+2025/06/02 12:05:25 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=7174.0000] in table vivienda_tri for quarter 2024-3T
+2025/06/02 12:05:25 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:25 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 13920 of type <class 'int'>
+2025/06/02 12:05:26 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=13920.0000] in table vivienda_tri for quarter 2024-4T
+2025/06/02 12:05:26 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:26 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 5720 of type <class 'int'>
+2025/06/02 12:05:26 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=5720.0000] in table vivienda_tri for quarter 2024-4T
+2025/06/02 12:05:26 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:26 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8200 of type <class 'int'>
+2025/06/02 12:05:26 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8200.0000] in table vivienda_tri for quarter 2024-4T
+2025/06/02 12:05:26 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:26 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is 12157 of type <class 'int'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Updated [Venta total de vivienda social y no social (número)=12157.0000] in table vivienda_tri for quarter 2025-1T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is 3537 of type <class 'int'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Updated [Venta total de vivienda social (número)=3537.0000] in table vivienda_tri for quarter 2025-1T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is 8620 of type <class 'int'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Updated [Venta total de vivienda no social (número)=8620.0000] in table vivienda_tri for quarter 2025-1T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2025-2T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2025-2T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2025-2T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2025-3T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2025-3T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2025-3T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2025-4T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2025-4T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2025-4T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2026-1T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2026-1T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2026-1T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2026-2T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2026-2T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2026-2T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2026-3T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2026-3T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2026-3T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2026-4T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2026-4T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2026-4T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social y no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social y no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social y no social (número)] in table vivienda_tri for quarter 2027-1T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda social (número)] in table vivienda_tri for quarter 2027-1T
+2025/06/02 12:05:27 PM - src.logger - INFO - Trying to update column Venta total de vivienda no social (número)
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Value for Venta total de vivienda no social (número) is nan of type <class 'float'>
+2025/06/02 12:05:27 PM - src.logger - INFO - 	Skipping [Venta total de vivienda no social (número)] in table vivienda_tri for quarter 2027-1T
+2025/06/02 12:05:27 PM - src.logger - INFO - Updated quarterly variables

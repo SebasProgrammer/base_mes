@@ -1,0 +1,662 @@
+2025/05/30 14:07:09 PM - src.logger - INFO - Logging timestamps are respect to America/Lima timezone
+2025/05/30 14:07:30 PM - src.logger - INFO - Updated [PBI nominal (US$ millones)=232446.7246] in table pbi_anual for period 2019.0
+2025/05/30 14:07:30 PM - src.logger - INFO - Updated [Demanda interna (Var.% real)=2.8113] in table pbi_anual for period 2019.0
+2025/05/30 14:07:30 PM - src.logger - INFO - Updated [PBI per cápita (US$)=7360.9459] in table pbi_anual for period 2019.0
+2025/05/30 14:07:31 PM - src.logger - INFO - Updated [PBI Nacional (S/ Miles del 2007)=5466050000.0000] in table pbi_anual for period 2019.0
+2025/05/30 14:07:31 PM - src.logger - INFO - Updated [PBI Nacional no primario (S/Miles del 2007)=4269519306.5689] in table pbi_anual for period 2019.0
+2025/05/30 14:07:31 PM - src.logger - INFO - Updated [PBI real (Millones de S/ del 2007)=546593.4542] in table pbi_anual for period 2019.0
+2025/05/30 14:07:32 PM - src.logger - INFO - Updated [PBI nominal (Millones de S/)=788901.4685] in table pbi_anual for period 2019.0
+2025/05/30 14:07:32 PM - src.logger - INFO - Updated [PBI nominal (Var. %)=4.4268] in table pbi_anual for period 2019.0
+2025/05/30 14:07:32 PM - src.logger - INFO - Updated [Demanda interna sin inventarios (Var.% real)=3.3848] in table pbi_anual for period 2019.0
+2025/05/30 14:07:33 PM - src.logger - INFO - Updated [Crédito de consumo (Var.% nominal anual)=13.2443] in table consumo_anual for period 2019.0
+2025/05/30 14:07:33 PM - src.logger - INFO - Updated [Consumo privado (Var.% real)=3.2444] in table consumo_anual for period 2019.0
+2025/05/30 14:07:33 PM - src.logger - INFO - Updated [Consumo público (Var.% real)=4.2585] in table consumo_anual for period 2019.0
+2025/05/30 14:07:34 PM - src.logger - INFO - Updated [Consumo total (Var.% real)=3.4077] in table consumo_anual for period 2019.0
+2025/05/30 14:07:34 PM - src.logger - INFO - Updated [Inversión privada (Var.% real)=5.1383] in table inversion_anual for period 2019.0
+2025/05/30 14:07:34 PM - src.logger - INFO - Updated [Inversión pública (Var.% real)=-1.5228] in table inversion_anual for period 2019.0
+2025/05/30 14:07:35 PM - src.logger - INFO - Updated [Inversión total (Var.% real)=3.8145] in table inversion_anual for period 2019.0
+2025/05/30 14:07:35 PM - src.logger - INFO - Updated [Importación de bienes de capital, sin materiales de construcción (Var.% real)=6.2277] in table inversion_anual for period 2019.0
+2025/05/30 14:07:35 PM - src.logger - INFO - Updated [Exportaciones (Var.% real)=0.9249] in table comercio_exterior_anual for period 2019.0
+2025/05/30 14:07:36 PM - src.logger - INFO - Updated [Importaciones (Var.% real)=3.0526] in table comercio_exterior_anual for period 2019.0
+2025/05/30 14:07:36 PM - src.logger - INFO - Updated [PBI Agropecuario (Var.% real)=3.5400] in table agropecuario_anual for period 2019.0
+2025/05/30 14:07:36 PM - src.logger - INFO - Updated [PBI Agrícola (Var.% real)=3.2381] in table agropecuario_anual for period 2019.0
+2025/05/30 14:07:37 PM - src.logger - INFO - Updated [PBI Pecuario (Var.% real)=4.0060] in table agropecuario_anual for period 2019.0
+2025/05/30 14:07:37 PM - src.logger - INFO - Updated [PBI Nacional agropecuario (S/ Miles del 2007)=311660603.5811] in table agropecuario_anual for period 2019.0
+2025/05/30 14:07:37 PM - src.logger - INFO - Updated [PBI Pesca (Var.% real)=-17.1522] in table pesca_anual for period 2019.0
+2025/05/30 14:07:38 PM - src.logger - INFO - Updated [PBI Nacional Pesca (S/ Miles del 2007)=23733561.0452] in table pesca_anual for period 2019.0
+2025/05/30 14:07:38 PM - src.logger - INFO - Updated [PBI Nacional Pesca (Var. % real)=-17.1522] in table pesca_anual for period 2019.0
+2025/05/30 14:07:38 PM - src.logger - INFO - Updated [PBI Manufactura (Var.% real)=-1.6626] in table manufactura_anual for period 2019.0
+2025/05/30 14:07:39 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (S/ Miles del 2007)=673384449.8097] in table manufactura_anual for period 2019.0
+2025/05/30 14:07:39 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (Var. % real)=-1.6626] in table manufactura_anual for period 2019.0
+2025/05/30 14:07:39 PM - src.logger - INFO - Updated [PBI Manufactura no primaria (Var.% real)=1.0781] in table manufactura_anual for period 2019.0
+2025/05/30 14:07:40 PM - src.logger - INFO - Updated [PBI Manufactura primaria (Var.% real)=-8.4721] in table manufactura_anual for period 2019.0
+2025/05/30 14:07:40 PM - src.logger - INFO - Updated [Minería e Hidrocarburos (Var.% real)=-0.0492] in table mineria_anual for period 2019.0
+2025/05/30 14:07:40 PM - src.logger - INFO - Updated [PBI Minería  (Var.% real)=-0.8405] in table mineria_anual for period 2019.0
+2025/05/30 14:07:40 PM - src.logger - INFO - Updated [PBI Nacional Minería e hidrocarburos (S/ Miles del 2007)=682354248.4473] in table mineria_anual for period 2019.0
+2025/05/30 14:07:41 PM - src.logger - INFO - Updated [PBI Hidrocarburos (Var.% real)=4.6046] in table hidrocarburos_anual for period 2019.0
+2025/05/30 14:07:41 PM - src.logger - INFO - Updated [PBI Comercio (Var.% real)=2.9985] in table comercio_anual for period 2019.0
+2025/05/30 14:07:41 PM - src.logger - INFO - Updated [PBI Nacional Comercio (S/ Miles del 2007)=587205056.8482] in table comercio_anual for period 2019.0
+2025/05/30 14:07:42 PM - src.logger - INFO - Updated [PBI Construcción (Var.% real)=1.4061] in table construccion_anual for period 2019.0
+2025/05/30 14:07:42 PM - src.logger - INFO - Updated [Gasto público en construcción total (Var. % real)=-12.0828] in table construccion_anual for period 2019.0
+2025/05/30 14:07:42 PM - src.logger - INFO - Updated [PBI Nacional Construcción (S/ Miles del 2007)=320147245.1928] in table construccion_anual for period 2019.0
+2025/05/30 14:07:43 PM - src.logger - INFO - Updated [Consumo interno de cemento (Var.%)=4.6453] in table construccion_anual for period 2019.0
+2025/05/30 14:07:43 PM - src.logger - INFO - Updated [PBI Servicios (Var.% real)=3.7588] in table pbi_otros_anual for period 2019.0
+2025/05/30 14:07:43 PM - src.logger - INFO - Updated [PBI Nacional Administración pública (S/ Miles del 2007)=280900000.0000] in table pbi_otros_anual for period 2019.0
+2025/05/30 14:07:44 PM - src.logger - INFO - Updated [PBI Nacional Otros servicios (S/ Miles del 2007)=751940000.0000] in table pbi_otros_anual for period 2019.0
+2025/05/30 14:07:44 PM - src.logger - INFO - Updated [PBI Nacional Administración pública (Var. % real)=3.3062] in table pbi_otros_anual for period 2019.0
+2025/05/30 14:07:44 PM - src.logger - INFO - Updated [PBI Nacional Otros servicios (Var. % real)=3.6215] in table pbi_otros_anual for period 2019.0
+2025/05/30 14:07:45 PM - src.logger - INFO - Updated [Inflación (%, fdp)=1.9001] in table inflacion_anual for period 2019.0
+2025/05/30 14:07:45 PM - src.logger - INFO - Updated [Inflación, promedio de período (%)=2.1358] in table inflacion_anual for period 2019.0
+2025/05/30 14:07:45 PM - src.logger - INFO - Updated [Índice de precios al consumidor Lima Metropolitana=91.4930] in table inflacion_anual for period 2019.0
+2025/05/30 14:07:46 PM - src.logger - INFO - Updated [Resultado fiscal (% del PBI)=-1.5917] in table financiero_anual for period 2019.0
+2025/05/30 14:07:46 PM - src.logger - INFO - Updated [Deuda pública (% del PBI)=26.1505] in table financiero_anual for period 2019.0
+2025/05/30 14:07:46 PM - src.logger - INFO - Updated [Cuenta corriente (% del PBI)=-0.7009] in table financiero_anual for period 2019.0
+2025/05/30 14:07:47 PM - src.logger - INFO - Updated [Tipo de cambio, promedio de período (S/ por US$)=3.3370] in table financiero_anual for period 2019.0
+2025/05/30 14:07:47 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (S/ Miles del 2007)=100115090.8262] in table electricidad_anual for period 2019.0
+2025/05/30 14:07:47 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (Var. % real)=3.9321] in table electricidad_anual for period 2019.0
+2025/05/30 14:07:48 PM - src.logger - INFO - Updated [PBI Nacional Alojamiento y restaurante (S/ Miles del 2007)=175690000.0000] in table turismo_anual for period 2019.0
+2025/05/30 14:07:48 PM - src.logger - INFO - Updated [PBI Nacional Alojamiento y restaurante (Var. % real)=4.3848] in table turismo_anual for period 2019.0
+2025/05/30 14:07:48 PM - src.logger - INFO - Updated [Gasto público en construcción Lima (Var. % real)=-30.7336] in table construccion_regional_anual for period 2019.0
+2025/05/30 14:07:48 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Norte (Var. % real)=-2.7314] in table construccion_regional_anual for period 2019.0
+2025/05/30 14:07:49 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Sur (Var. % real)=-16.3756] in table construccion_regional_anual for period 2019.0
+2025/05/30 14:07:49 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Oriente (Var. % real)=-2.2323] in table construccion_regional_anual for period 2019.0
+2025/05/30 14:07:49 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Centro (Var. % real)=-8.2363] in table construccion_regional_anual for period 2019.0
+2025/05/30 14:07:50 PM - src.logger - INFO - Updated [PBI Nacional Transporte (S/ Miles del 2007)=308760000.0000] in table transporte_anual for period 2019.0
+2025/05/30 14:07:50 PM - src.logger - INFO - Updated [PBI Nacional Transporte (Var. % real)=2.4827] in table transporte_anual for period 2019.0
+2025/05/30 14:07:50 PM - src.logger - INFO - Updated [PBI Nacional Telecomunicaciones (S/ Miles del 2007)=253400000.0000] in table telecom_anual for period 2019.0
+2025/05/30 14:07:51 PM - src.logger - INFO - Updated [PBI Nacional Telecomunicaciones (Var. % real)=6.9830] in table telecom_anual for period 2019.0
+2025/05/30 14:07:51 PM - src.logger - INFO - Updated [PBI nominal (US$ millones)=205689.3907] in table pbi_anual for period 2020.0
+2025/05/30 14:07:51 PM - src.logger - INFO - Updated [Demanda interna (Var.% real)=-9.2852] in table pbi_anual for period 2020.0
+2025/05/30 14:07:52 PM - src.logger - INFO - Updated [PBI per cápita (US$)=6428.0909] in table pbi_anual for period 2020.0
+2025/05/30 14:07:52 PM - src.logger - INFO - Updated [PBI Nacional (S/ Miles del 2007)=4871910000.0000] in table pbi_anual for period 2020.0
+2025/05/30 14:07:52 PM - src.logger - INFO - Updated [PBI Nacional no primario (S/Miles del 2007)=3766214679.6439] in table pbi_anual for period 2020.0
+2025/05/30 14:07:53 PM - src.logger - INFO - Updated [PBI real (Millones de S/ del 2007)=486809.1533] in table pbi_anual for period 2020.0
+2025/05/30 14:07:53 PM - src.logger - INFO - Updated [PBI nominal (Millones de S/)=734006.3991] in table pbi_anual for period 2020.0
+2025/05/30 14:07:53 PM - src.logger - INFO - Updated [PBI nominal (Var. %)=-6.9584] in table pbi_anual for period 2020.0
+2025/05/30 14:07:54 PM - src.logger - INFO - Updated [Demanda interna sin inventarios (Var.% real)=-9.0968] in table pbi_anual for period 2020.0
+2025/05/30 14:07:54 PM - src.logger - INFO - Updated [Crédito de consumo (Var.% nominal anual)=-6.6100] in table consumo_anual for period 2020.0
+2025/05/30 14:07:54 PM - src.logger - INFO - Updated [Consumo privado (Var.% real)=-9.8598] in table consumo_anual for period 2020.0
+2025/05/30 14:07:55 PM - src.logger - INFO - Updated [Consumo público (Var.% real)=7.8604] in table consumo_anual for period 2020.0
+2025/05/30 14:07:55 PM - src.logger - INFO - Updated [Consumo total (Var.% real)=-6.9831] in table consumo_anual for period 2020.0
+2025/05/30 14:07:55 PM - src.logger - INFO - Updated [Inversión privada (Var.% real)=-16.3633] in table inversion_anual for period 2020.0
+2025/05/30 14:07:56 PM - src.logger - INFO - Updated [Inversión pública (Var.% real)=-15.0635] in table inversion_anual for period 2020.0
+2025/05/30 14:07:56 PM - src.logger - INFO - Updated [Inversión total (Var.% real)=-16.1182] in table inversion_anual for period 2020.0
+2025/05/30 14:07:56 PM - src.logger - INFO - Updated [Importación de bienes de capital, sin materiales de construcción (Var.% real)=-14.8693] in table inversion_anual for period 2020.0
+2025/05/30 14:07:57 PM - src.logger - INFO - Updated [Exportaciones (Var.% real)=-19.7970] in table comercio_exterior_anual for period 2020.0
+2025/05/30 14:07:57 PM - src.logger - INFO - Updated [Importaciones (Var.% real)=-13.5998] in table comercio_exterior_anual for period 2020.0
+2025/05/30 14:07:57 PM - src.logger - INFO - Updated [PBI Agropecuario (Var.% real)=1.0325] in table agropecuario_anual for period 2020.0
+2025/05/30 14:07:57 PM - src.logger - INFO - Updated [PBI Agrícola (Var.% real)=2.8330] in table agropecuario_anual for period 2020.0
+2025/05/30 14:07:58 PM - src.logger - INFO - Updated [PBI Pecuario (Var.% real)=-1.7618] in table agropecuario_anual for period 2020.0
+2025/05/30 14:07:58 PM - src.logger - INFO - Updated [PBI Nacional agropecuario (S/ Miles del 2007)=314878438.0183] in table agropecuario_anual for period 2020.0
+2025/05/30 14:07:58 PM - src.logger - INFO - Updated [PBI Pesca (Var.% real)=4.2177] in table pesca_anual for period 2020.0
+2025/05/30 14:07:59 PM - src.logger - INFO - Updated [PBI Nacional Pesca (S/ Miles del 2007)=24734560.5945] in table pesca_anual for period 2020.0
+2025/05/30 14:07:59 PM - src.logger - INFO - Updated [PBI Nacional Pesca (Var. % real)=4.2177] in table pesca_anual for period 2020.0
+2025/05/30 14:07:59 PM - src.logger - INFO - Updated [PBI Manufactura (Var.% real)=-12.5374] in table manufactura_anual for period 2020.0
+2025/05/30 14:08:00 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (S/ Miles del 2007)=588959672.4705] in table manufactura_anual for period 2020.0
+2025/05/30 14:08:00 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (Var. % real)=-12.5374] in table manufactura_anual for period 2020.0
+2025/05/30 14:08:00 PM - src.logger - INFO - Updated [PBI Manufactura no primaria (Var.% real)=-16.3949] in table manufactura_anual for period 2020.0
+2025/05/30 14:08:01 PM - src.logger - INFO - Updated [PBI Manufactura primaria (Var.% real)=-1.9621] in table manufactura_anual for period 2020.0
+2025/05/30 14:08:01 PM - src.logger - INFO - Updated [Minería e Hidrocarburos (Var.% real)=-13.4163] in table mineria_anual for period 2020.0
+2025/05/30 14:08:01 PM - src.logger - INFO - Updated [PBI Minería  (Var.% real)=-13.8409] in table mineria_anual for period 2020.0
+2025/05/30 14:08:02 PM - src.logger - INFO - Updated [PBI Nacional Minería e hidrocarburos (S/ Miles del 2007)=590807885.5911] in table mineria_anual for period 2020.0
+2025/05/30 14:08:02 PM - src.logger - INFO - Updated [PBI Hidrocarburos (Var.% real)=-11.0491] in table hidrocarburos_anual for period 2020.0
+2025/05/30 14:08:02 PM - src.logger - INFO - Updated [PBI Comercio (Var.% real)=-15.9793] in table comercio_anual for period 2020.0
+2025/05/30 14:08:03 PM - src.logger - INFO - Updated [PBI Nacional Comercio (S/ Miles del 2007)=493373828.4704] in table comercio_anual for period 2020.0
+2025/05/30 14:08:03 PM - src.logger - INFO - Updated [PBI Construcción (Var.% real)=-13.5392] in table construccion_anual for period 2020.0
+2025/05/30 14:08:03 PM - src.logger - INFO - Updated [Gasto público en construcción total (Var. % real)=-16.9194] in table construccion_anual for period 2020.0
+2025/05/30 14:08:04 PM - src.logger - INFO - Updated [PBI Nacional Construcción (S/ Miles del 2007)=277591900.3654] in table construccion_anual for period 2020.0
+2025/05/30 14:08:04 PM - src.logger - INFO - Updated [Consumo interno de cemento (Var.%)=-14.2258] in table construccion_anual for period 2020.0
+2025/05/30 14:08:04 PM - src.logger - INFO - Updated [PBI Servicios (Var.% real)=-10.2278] in table pbi_otros_anual for period 2020.0
+2025/05/30 14:08:05 PM - src.logger - INFO - Updated [PBI Nacional Administración pública (S/ Miles del 2007)=289880000.0000] in table pbi_otros_anual for period 2020.0
+2025/05/30 14:08:05 PM - src.logger - INFO - Updated [PBI Nacional Otros servicios (S/ Miles del 2007)=691860000.0000] in table pbi_otros_anual for period 2020.0
+2025/05/30 14:08:05 PM - src.logger - INFO - Updated [PBI Nacional Administración pública (Var. % real)=3.1969] in table pbi_otros_anual for period 2020.0
+2025/05/30 14:08:06 PM - src.logger - INFO - Updated [PBI Nacional Otros servicios (Var. % real)=-7.9900] in table pbi_otros_anual for period 2020.0
+2025/05/30 14:08:06 PM - src.logger - INFO - Updated [Inflación (%, fdp)=1.9732] in table inflacion_anual for period 2020.0
+2025/05/30 14:08:06 PM - src.logger - INFO - Updated [Inflación, promedio de período (%)=1.8273] in table inflacion_anual for period 2020.0
+2025/05/30 14:08:06 PM - src.logger - INFO - Updated [Índice de precios al consumidor Lima Metropolitana=93.1650] in table inflacion_anual for period 2020.0
+2025/05/30 14:08:07 PM - src.logger - INFO - Updated [Resultado fiscal (% del PBI)=-8.7107] in table financiero_anual for period 2020.0
+2025/05/30 14:08:07 PM - src.logger - INFO - Updated [Deuda pública (% del PBI)=33.9502] in table financiero_anual for period 2020.0
+2025/05/30 14:08:07 PM - src.logger - INFO - Updated [Cuenta corriente (% del PBI)=0.7502] in table financiero_anual for period 2020.0
+2025/05/30 14:08:08 PM - src.logger - INFO - Updated [Tipo de cambio, promedio de período (S/ por US$)=3.4949] in table financiero_anual for period 2020.0
+2025/05/30 14:08:08 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (S/ Miles del 2007)=93967464.5718] in table electricidad_anual for period 2020.0
+2025/05/30 14:08:08 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (Var. % real)=-6.1406] in table electricidad_anual for period 2020.0
+2025/05/30 14:08:09 PM - src.logger - INFO - Updated [PBI Nacional Alojamiento y restaurante (S/ Miles del 2007)=86960000.0000] in table turismo_anual for period 2020.0
+2025/05/30 14:08:09 PM - src.logger - INFO - Updated [PBI Nacional Alojamiento y restaurante (Var. % real)=-50.5037] in table turismo_anual for period 2020.0
+2025/05/30 14:08:09 PM - src.logger - INFO - Updated [Gasto público en construcción Lima (Var. % real)=-27.6661] in table construccion_regional_anual for period 2020.0
+2025/05/30 14:08:10 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Norte (Var. % real)=0.6415] in table construccion_regional_anual for period 2020.0
+2025/05/30 14:08:10 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Sur (Var. % real)=-22.7758] in table construccion_regional_anual for period 2020.0
+2025/05/30 14:08:10 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Oriente (Var. % real)=-24.2876] in table construccion_regional_anual for period 2020.0
+2025/05/30 14:08:11 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Centro (Var. % real)=-19.7363] in table construccion_regional_anual for period 2020.0
+2025/05/30 14:08:11 PM - src.logger - INFO - Updated [PBI Nacional Transporte (S/ Miles del 2007)=223470000.0000] in table transporte_anual for period 2020.0
+2025/05/30 14:08:11 PM - src.logger - INFO - Updated [PBI Nacional Transporte (Var. % real)=-27.6234] in table transporte_anual for period 2020.0
+2025/05/30 14:08:12 PM - src.logger - INFO - Updated [PBI Nacional Telecomunicaciones (S/ Miles del 2007)=264140000.0000] in table telecom_anual for period 2020.0
+2025/05/30 14:08:12 PM - src.logger - INFO - Updated [PBI Nacional Telecomunicaciones (Var. % real)=4.2384] in table telecom_anual for period 2020.0
+2025/05/30 14:08:12 PM - src.logger - INFO - Updated [PBI nominal (US$ millones)=225432.8229] in table pbi_anual for period 2021.0
+2025/05/30 14:08:13 PM - src.logger - INFO - Updated [Demanda interna (Var.% real)=13.8700] in table pbi_anual for period 2021.0
+2025/05/30 14:08:13 PM - src.logger - INFO - Updated [PBI per cápita (US$)=6955.9371] in table pbi_anual for period 2021.0
+2025/05/30 14:08:13 PM - src.logger - INFO - Updated [PBI Nacional (S/ Miles del 2007)=5525600000.0000] in table pbi_anual for period 2021.0
+2025/05/30 14:08:14 PM - src.logger - INFO - Updated [PBI Nacional no primario (S/Miles del 2007)=4349258334.2437] in table pbi_anual for period 2021.0
+2025/05/30 14:08:14 PM - src.logger - INFO - Updated [PBI real (Millones de S/ del 2007)=551880.1538] in table pbi_anual for period 2021.0
+2025/05/30 14:08:14 PM - src.logger - INFO - Updated [PBI nominal (Millones de S/)=891797.2754] in table pbi_anual for period 2021.0
+2025/05/30 14:08:15 PM - src.logger - INFO - Updated [PBI nominal (Var. %)=21.4972] in table pbi_anual for period 2021.0
+2025/05/30 14:08:15 PM - src.logger - INFO - Updated [Demanda interna sin inventarios (Var.% real)=15.9519] in table pbi_anual for period 2021.0
+2025/05/30 14:08:15 PM - src.logger - INFO - Updated [Crédito de consumo (Var.% nominal anual)=3.7000] in table consumo_anual for period 2021.0
+2025/05/30 14:08:15 PM - src.logger - INFO - Updated [Consumo privado (Var.% real)=12.5422] in table consumo_anual for period 2021.0
+2025/05/30 14:08:16 PM - src.logger - INFO - Updated [Consumo público (Var.% real)=4.7725] in table consumo_anual for period 2021.0
+2025/05/30 14:08:16 PM - src.logger - INFO - Updated [Consumo total (Var.% real)=11.0796] in table consumo_anual for period 2021.0
+2025/05/30 14:08:16 PM - src.logger - INFO - Updated [Inversión privada (Var.% real)=35.1990] in table inversion_anual for period 2021.0
+2025/05/30 14:08:17 PM - src.logger - INFO - Updated [Inversión pública (Var.% real)=24.6894] in table inversion_anual for period 2021.0
+2025/05/30 14:08:17 PM - src.logger - INFO - Updated [Inversión total (Var.% real)=33.1928] in table inversion_anual for period 2021.0
+2025/05/30 14:08:17 PM - src.logger - INFO - Updated [Importación de bienes de capital, sin materiales de construcción (Var.% real)=29.5042] in table inversion_anual for period 2021.0
+2025/05/30 14:08:18 PM - src.logger - INFO - Updated [Exportaciones (Var.% real)=12.7472] in table comercio_exterior_anual for period 2021.0
+2025/05/30 14:08:18 PM - src.logger - INFO - Updated [Importaciones (Var.% real)=14.7851] in table comercio_exterior_anual for period 2021.0
+2025/05/30 14:08:18 PM - src.logger - INFO - Updated [PBI Agropecuario (Var.% real)=4.6434] in table agropecuario_anual for period 2021.0
+2025/05/30 14:08:19 PM - src.logger - INFO - Updated [PBI Agrícola (Var.% real)=6.2716] in table agropecuario_anual for period 2021.0
+2025/05/30 14:08:19 PM - src.logger - INFO - Updated [PBI Pecuario (Var.% real)=1.9980] in table agropecuario_anual for period 2021.0
+2025/05/30 14:08:19 PM - src.logger - INFO - Updated [PBI Nacional agropecuario (S/ Miles del 2007)=329499438.3455] in table agropecuario_anual for period 2021.0
+2025/05/30 14:08:20 PM - src.logger - INFO - Updated [PBI Pesca (Var.% real)=9.9147] in table pesca_anual for period 2021.0
+2025/05/30 14:08:20 PM - src.logger - INFO - Updated [PBI Nacional Pesca (S/ Miles del 2007)=27186909.7438] in table pesca_anual for period 2021.0
+2025/05/30 14:08:20 PM - src.logger - INFO - Updated [PBI Nacional Pesca (Var. % real)=9.9147] in table pesca_anual for period 2021.0
+2025/05/30 14:08:21 PM - src.logger - INFO - Updated [PBI Manufactura (Var.% real)=18.6071] in table manufactura_anual for period 2021.0
+2025/05/30 14:08:21 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (S/ Miles del 2007)=698547913.7872] in table manufactura_anual for period 2021.0
+2025/05/30 14:08:21 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (Var. % real)=18.6071] in table manufactura_anual for period 2021.0
+2025/05/30 14:08:22 PM - src.logger - INFO - Updated [PBI Manufactura no primaria (Var.% real)=25.2021] in table manufactura_anual for period 2021.0
+2025/05/30 14:08:22 PM - src.logger - INFO - Updated [PBI Manufactura primaria (Var.% real)=3.1856] in table manufactura_anual for period 2021.0
+2025/05/30 14:08:22 PM - src.logger - INFO - Updated [Minería e Hidrocarburos (Var.% real)=8.1227] in table mineria_anual for period 2021.0
+2025/05/30 14:08:23 PM - src.logger - INFO - Updated [PBI Minería  (Var.% real)=10.4823] in table mineria_anual for period 2021.0
+2025/05/30 14:08:23 PM - src.logger - INFO - Updated [PBI Nacional Minería e hidrocarburos (S/ Miles del 2007)=638797350.7518] in table mineria_anual for period 2021.0
+2025/05/30 14:08:23 PM - src.logger - INFO - Updated [PBI Hidrocarburos (Var.% real)=-4.6184] in table hidrocarburos_anual for period 2021.0
+2025/05/30 14:08:23 PM - src.logger - INFO - Updated [PBI Comercio (Var.% real)=17.8105] in table comercio_anual for period 2021.0
+2025/05/30 14:08:24 PM - src.logger - INFO - Updated [PBI Nacional Comercio (S/ Miles del 2007)=581246045.4320] in table comercio_anual for period 2021.0
+2025/05/30 14:08:24 PM - src.logger - INFO - Updated [PBI Construcción (Var.% real)=35.3046] in table construccion_anual for period 2021.0
+2025/05/30 14:08:24 PM - src.logger - INFO - Updated [Gasto público en construcción total (Var. % real)=37.9680] in table construccion_anual for period 2021.0
+2025/05/30 14:08:25 PM - src.logger - INFO - Updated [PBI Nacional Construcción (S/ Miles del 2007)=374370042.9219] in table construccion_anual for period 2021.0
+2025/05/30 14:08:25 PM - src.logger - INFO - Updated [Consumo interno de cemento (Var.%)=561.3678] in table construccion_anual for period 2021.0
+2025/05/30 14:08:25 PM - src.logger - INFO - Updated [PBI Servicios (Var.% real)=11.4356] in table pbi_otros_anual for period 2021.0
+2025/05/30 14:08:26 PM - src.logger - INFO - Updated [PBI Nacional Administración pública (S/ Miles del 2007)=302770000.0000] in table pbi_otros_anual for period 2021.0
+2025/05/30 14:08:26 PM - src.logger - INFO - Updated [PBI Nacional Otros servicios (S/ Miles del 2007)=736630000.0000] in table pbi_otros_anual for period 2021.0
+2025/05/30 14:08:26 PM - src.logger - INFO - Updated [PBI Nacional Administración pública (Var. % real)=4.4467] in table pbi_otros_anual for period 2021.0
+2025/05/30 14:08:27 PM - src.logger - INFO - Updated [PBI Nacional Otros servicios (Var. % real)=6.4710] in table pbi_otros_anual for period 2021.0
+2025/05/30 14:08:27 PM - src.logger - INFO - Updated [Inflación (%, fdp)=6.4304] in table inflacion_anual for period 2021.0
+2025/05/30 14:08:27 PM - src.logger - INFO - Updated [Inflación, promedio de período (%)=3.9790] in table inflacion_anual for period 2021.0
+2025/05/30 14:08:28 PM - src.logger - INFO - Updated [Índice de precios al consumidor Lima Metropolitana=96.8720] in table inflacion_anual for period 2021.0
+2025/05/30 14:08:28 PM - src.logger - INFO - Updated [Resultado fiscal (% del PBI)=-2.4855] in table financiero_anual for period 2021.0
+2025/05/30 14:08:28 PM - src.logger - INFO - Updated [Deuda pública (% del PBI)=35.3096] in table financiero_anual for period 2021.0
+2025/05/30 14:08:29 PM - src.logger - INFO - Updated [Cuenta corriente (% del PBI)=-2.2152] in table financiero_anual for period 2021.0
+2025/05/30 14:08:29 PM - src.logger - INFO - Updated [Tipo de cambio, promedio de período (S/ por US$)=3.8806] in table financiero_anual for period 2021.0
+2025/05/30 14:08:29 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (S/ Miles del 2007)=101998197.8772] in table electricidad_anual for period 2021.0
+2025/05/30 14:08:30 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (Var. % real)=8.5463] in table electricidad_anual for period 2021.0
+2025/05/30 14:08:30 PM - src.logger - INFO - Updated [PBI Nacional Alojamiento y restaurante (S/ Miles del 2007)=123710000.0000] in table turismo_anual for period 2021.0
+2025/05/30 14:08:30 PM - src.logger - INFO - Updated [PBI Nacional Alojamiento y restaurante (Var. % real)=42.2608] in table turismo_anual for period 2021.0
+2025/05/30 14:08:30 PM - src.logger - INFO - Updated [Gasto público en construcción Lima (Var. % real)=43.5821] in table construccion_regional_anual for period 2021.0
+2025/05/30 14:08:31 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Norte (Var. % real)=38.0149] in table construccion_regional_anual for period 2021.0
+2025/05/30 14:08:31 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Sur (Var. % real)=43.3091] in table construccion_regional_anual for period 2021.0
+2025/05/30 14:08:31 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Oriente (Var. % real)=25.8182] in table construccion_regional_anual for period 2021.0
+2025/05/30 14:08:32 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Centro (Var. % real)=42.0346] in table construccion_regional_anual for period 2021.0
+2025/05/30 14:08:32 PM - src.logger - INFO - Updated [PBI Nacional Transporte (S/ Miles del 2007)=267930000.0000] in table transporte_anual for period 2021.0
+2025/05/30 14:08:32 PM - src.logger - INFO - Updated [PBI Nacional Transporte (Var. % real)=19.8953] in table transporte_anual for period 2021.0
+2025/05/30 14:08:33 PM - src.logger - INFO - Updated [PBI Nacional Telecomunicaciones (S/ Miles del 2007)=291540000.0000] in table telecom_anual for period 2021.0
+2025/05/30 14:08:33 PM - src.logger - INFO - Updated [PBI Nacional Telecomunicaciones (Var. % real)=10.3733] in table telecom_anual for period 2021.0
+2025/05/30 14:08:33 PM - src.logger - INFO - Updated [PBI nominal (US$ millones)=244464.5579] in table pbi_anual for period 2022.0
+2025/05/30 14:08:34 PM - src.logger - INFO - Updated [Demanda interna (Var.% real)=2.3872] in table pbi_anual for period 2022.0
+2025/05/30 14:08:34 PM - src.logger - INFO - Updated [PBI per cápita (US$)=7437.9546] in table pbi_anual for period 2022.0
+2025/05/30 14:08:34 PM - src.logger - INFO - Updated [PBI Nacional (S/ Miles del 2007)=5673900000.0000] in table pbi_anual for period 2022.0
+2025/05/30 14:08:35 PM - src.logger - INFO - Updated [PBI Nacional no primario (S/Miles del 2007)=4486867579.5074] in table pbi_anual for period 2022.0
+2025/05/30 14:08:35 PM - src.logger - INFO - Updated [PBI real (Millones de S/ del 2007)=567387.9430] in table pbi_anual for period 2022.0
+2025/05/30 14:08:35 PM - src.logger - INFO - Updated [PBI nominal (Millones de S/)=951692.8538] in table pbi_anual for period 2022.0
+2025/05/30 14:08:36 PM - src.logger - INFO - Updated [PBI nominal (Var. %)=6.7163] in table pbi_anual for period 2022.0
+2025/05/30 14:08:36 PM - src.logger - INFO - Updated [Demanda interna sin inventarios (Var.% real)=2.3796] in table pbi_anual for period 2022.0
+2025/05/30 14:08:36 PM - src.logger - INFO - Updated [Crédito de consumo (Var.% nominal anual)=21.5000] in table consumo_anual for period 2022.0
+2025/05/30 14:08:37 PM - src.logger - INFO - Updated [Consumo privado (Var.% real)=3.5487] in table consumo_anual for period 2022.0
+2025/05/30 14:08:37 PM - src.logger - INFO - Updated [Consumo público (Var.% real)=-0.1532] in table consumo_anual for period 2022.0
+2025/05/30 14:08:37 PM - src.logger - INFO - Updated [Consumo total (Var.% real)=2.8914] in table consumo_anual for period 2022.0
+2025/05/30 14:08:37 PM - src.logger - INFO - Updated [Inversión privada (Var.% real)=0.0082] in table inversion_anual for period 2022.0
+2025/05/30 14:08:38 PM - src.logger - INFO - Updated [Inversión pública (Var.% real)=6.0066] in table inversion_anual for period 2022.0
+2025/05/30 14:08:38 PM - src.logger - INFO - Updated [Inversión total (Var.% real)=1.0801] in table inversion_anual for period 2022.0
+2025/05/30 14:08:38 PM - src.logger - INFO - Updated [Importación de bienes de capital, sin materiales de construcción (Var.% real)=-0.6014] in table inversion_anual for period 2022.0
+2025/05/30 14:08:39 PM - src.logger - INFO - Updated [Exportaciones (Var.% real)=5.5161] in table comercio_exterior_anual for period 2022.0
+2025/05/30 14:08:39 PM - src.logger - INFO - Updated [Importaciones (Var.% real)=3.6264] in table comercio_exterior_anual for period 2022.0
+2025/05/30 14:08:39 PM - src.logger - INFO - Updated [PBI Agropecuario (Var.% real)=4.5524] in table agropecuario_anual for period 2022.0
+2025/05/30 14:08:40 PM - src.logger - INFO - Updated [PBI Agrícola (Var.% real)=5.7946] in table agropecuario_anual for period 2022.0
+2025/05/30 14:08:40 PM - src.logger - INFO - Updated [PBI Pecuario (Var.% real)=2.4498] in table agropecuario_anual for period 2022.0
+2025/05/30 14:08:40 PM - src.logger - INFO - Updated [PBI Nacional agropecuario (S/ Miles del 2007)=344499410.7767] in table agropecuario_anual for period 2022.0
+2025/05/30 14:08:41 PM - src.logger - INFO - Updated [PBI Pesca (Var.% real)=-11.3931] in table pesca_anual for period 2022.0
+2025/05/30 14:08:41 PM - src.logger - INFO - Updated [PBI Nacional Pesca (S/ Miles del 2007)=24089467.3535] in table pesca_anual for period 2022.0
+2025/05/30 14:08:41 PM - src.logger - INFO - Updated [PBI Nacional Pesca (Var. % real)=-11.3931] in table pesca_anual for period 2022.0
+2025/05/30 14:08:42 PM - src.logger - INFO - Updated [PBI Manufactura (Var.% real)=0.9525] in table manufactura_anual for period 2022.0
+2025/05/30 14:08:42 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (S/ Miles del 2007)=705201828.0527] in table manufactura_anual for period 2022.0
+2025/05/30 14:08:42 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (Var. % real)=0.9525] in table manufactura_anual for period 2022.0
+2025/05/30 14:08:43 PM - src.logger - INFO - Updated [PBI Manufactura no primaria (Var.% real)=2.1679] in table manufactura_anual for period 2022.0
+2025/05/30 14:08:43 PM - src.logger - INFO - Updated [PBI Manufactura primaria (Var.% real)=-2.4922] in table manufactura_anual for period 2022.0
+2025/05/30 14:08:43 PM - src.logger - INFO - Updated [Minería e Hidrocarburos (Var.% real)=0.5159] in table mineria_anual for period 2022.0
+2025/05/30 14:08:44 PM - src.logger - INFO - Updated [PBI Minería  (Var.% real)=-0.0424] in table mineria_anual for period 2022.0
+2025/05/30 14:08:44 PM - src.logger - INFO - Updated [PBI Nacional Minería e hidrocarburos (S/ Miles del 2007)=642092903.2561] in table mineria_anual for period 2022.0
+2025/05/30 14:08:44 PM - src.logger - INFO - Updated [PBI Hidrocarburos (Var.% real)=4.0089] in table hidrocarburos_anual for period 2022.0
+2025/05/30 14:08:45 PM - src.logger - INFO - Updated [PBI Comercio (Var.% real)=3.2561] in table comercio_anual for period 2022.0
+2025/05/30 14:08:45 PM - src.logger - INFO - Updated [PBI Nacional Comercio (S/ Miles del 2007)=600172236.4231] in table comercio_anual for period 2022.0
+2025/05/30 14:08:45 PM - src.logger - INFO - Updated [PBI Construcción (Var.% real)=3.0675] in table construccion_anual for period 2022.0
+2025/05/30 14:08:46 PM - src.logger - INFO - Updated [Gasto público en construcción total (Var. % real)=14.8985] in table construccion_anual for period 2022.0
+2025/05/30 14:08:46 PM - src.logger - INFO - Updated [PBI Nacional Construcción (S/ Miles del 2007)=385985732.6180] in table construccion_anual for period 2022.0
+2025/05/30 14:08:46 PM - src.logger - INFO - Updated [Consumo interno de cemento (Var.%)=-0.4975] in table construccion_anual for period 2022.0
+2025/05/30 14:08:46 PM - src.logger - INFO - Updated [PBI Servicios (Var.% real)=3.5699] in table pbi_otros_anual for period 2022.0
+2025/05/30 14:08:47 PM - src.logger - INFO - Updated [PBI Nacional Administración pública (S/ Miles del 2007)=312120000.0000] in table pbi_otros_anual for period 2022.0
+2025/05/30 14:08:47 PM - src.logger - INFO - Updated [PBI Nacional Otros servicios (S/ Miles del 2007)=757210000.0000] in table pbi_otros_anual for period 2022.0
+2025/05/30 14:08:47 PM - src.logger - INFO - Updated [PBI Nacional Administración pública (Var. % real)=3.0882] in table pbi_otros_anual for period 2022.0
+2025/05/30 14:08:48 PM - src.logger - INFO - Updated [PBI Nacional Otros servicios (Var. % real)=2.7938] in table pbi_otros_anual for period 2022.0
+2025/05/30 14:08:48 PM - src.logger - INFO - Updated [Inflación (%, fdp)=8.4549] in table inflacion_anual for period 2022.0
+2025/05/30 14:08:48 PM - src.logger - INFO - Updated [Inflación, promedio de período (%)=7.8772] in table inflacion_anual for period 2022.0
+2025/05/30 14:08:49 PM - src.logger - INFO - Updated [Índice de precios al consumidor Lima Metropolitana=104.4960] in table inflacion_anual for period 2022.0
+2025/05/30 14:08:49 PM - src.logger - INFO - Updated [Resultado fiscal (% del PBI)=-1.6779] in table financiero_anual for period 2022.0
+2025/05/30 14:08:49 PM - src.logger - INFO - Updated [Deuda pública (% del PBI)=33.3412] in table financiero_anual for period 2022.0
+2025/05/30 14:08:50 PM - src.logger - INFO - Updated [Cuenta corriente (% del PBI)=-4.0145] in table financiero_anual for period 2022.0
+2025/05/30 14:08:50 PM - src.logger - INFO - Updated [Tipo de cambio, promedio de período (S/ por US$)=3.8352] in table financiero_anual for period 2022.0
+2025/05/30 14:08:50 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (S/ Miles del 2007)=105981278.2825] in table electricidad_anual for period 2022.0
+2025/05/30 14:08:51 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (Var. % real)=3.9050] in table electricidad_anual for period 2022.0
+2025/05/30 14:08:51 PM - src.logger - INFO - Updated [PBI Nacional Alojamiento y restaurante (S/ Miles del 2007)=152430000.0000] in table turismo_anual for period 2022.0
+2025/05/30 14:08:51 PM - src.logger - INFO - Updated [PBI Nacional Alojamiento y restaurante (Var. % real)=23.2156] in table turismo_anual for period 2022.0
+2025/05/30 14:08:52 PM - src.logger - INFO - Updated [Gasto público en construcción Lima (Var. % real)=-5.6909] in table construccion_regional_anual for period 2022.0
+2025/05/30 14:08:52 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Norte (Var. % real)=0.8275] in table construccion_regional_anual for period 2022.0
+2025/05/30 14:08:52 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Sur (Var. % real)=32.1625] in table construccion_regional_anual for period 2022.0
+2025/05/30 14:08:53 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Oriente (Var. % real)=-1.7941] in table construccion_regional_anual for period 2022.0
+2025/05/30 14:08:53 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Centro (Var. % real)=31.4962] in table construccion_regional_anual for period 2022.0
+2025/05/30 14:08:53 PM - src.logger - INFO - Updated [PBI Nacional Transporte (S/ Miles del 2007)=290970000.0000] in table transporte_anual for period 2022.0
+2025/05/30 14:08:54 PM - src.logger - INFO - Updated [PBI Nacional Transporte (Var. % real)=8.5993] in table transporte_anual for period 2022.0
+2025/05/30 14:08:54 PM - src.logger - INFO - Updated [PBI Nacional Telecomunicaciones (S/ Miles del 2007)=302670000.0000] in table telecom_anual for period 2022.0
+2025/05/30 14:08:54 PM - src.logger - INFO - Updated [PBI Nacional Telecomunicaciones (Var. % real)=3.8177] in table telecom_anual for period 2022.0
+2025/05/30 14:08:54 PM - src.logger - INFO - Updated [PBI nominal (US$ millones)=267346.3498] in table pbi_anual for period 2023.0
+2025/05/30 14:08:55 PM - src.logger - INFO - Updated [Demanda interna (Var.% real)=-1.0541] in table pbi_anual for period 2023.0
+2025/05/30 14:08:55 PM - src.logger - INFO - Updated [PBI per cápita (US$)=8071.5949] in table pbi_anual for period 2023.0
+2025/05/30 14:08:55 PM - src.logger - INFO - Updated [PBI Nacional (S/ Miles del 2007)=5642605770.0000] in table pbi_anual for period 2023.0
+2025/05/30 14:08:56 PM - src.logger - INFO - Updated [PBI Nacional no primario (S/Miles del 2007)=4422184835.2495] in table pbi_anual for period 2023.0
+2025/05/30 14:08:56 PM - src.logger - INFO - Updated [PBI real (Millones de S/ del 2007)=565100.6970] in table pbi_anual for period 2023.0
+2025/05/30 14:08:56 PM - src.logger - INFO - Updated [PBI nominal (Millones de S/)=1017415.3003] in table pbi_anual for period 2023.0
+2025/05/30 14:08:57 PM - src.logger - INFO - Updated [PBI nominal (Var. %)=6.9058] in table pbi_anual for period 2023.0
+2025/05/30 14:08:57 PM - src.logger - INFO - Updated [Demanda interna sin inventarios (Var.% real)=-0.6043] in table pbi_anual for period 2023.0
+2025/05/30 14:08:57 PM - src.logger - INFO - Updated [Crédito de consumo (Var.% nominal anual)=8.1000] in table consumo_anual for period 2023.0
+2025/05/30 14:08:58 PM - src.logger - INFO - Updated [Consumo privado (Var.% real)=0.0571] in table consumo_anual for period 2023.0
+2025/05/30 14:08:58 PM - src.logger - INFO - Updated [Consumo público (Var.% real)=4.9212] in table consumo_anual for period 2023.0
+2025/05/30 14:08:58 PM - src.logger - INFO - Updated [Consumo total (Var.% real)=0.8952] in table consumo_anual for period 2023.0
+2025/05/30 14:08:59 PM - src.logger - INFO - Updated [Inversión privada (Var.% real)=-6.0927] in table inversion_anual for period 2023.0
+2025/05/30 14:08:59 PM - src.logger - INFO - Updated [Inversión pública (Var.% real)=2.3582] in table inversion_anual for period 2023.0
+2025/05/30 14:08:59 PM - src.logger - INFO - Updated [Inversión total (Var.% real)=-4.5089] in table inversion_anual for period 2023.0
+2025/05/30 14:09:00 PM - src.logger - INFO - Updated [Importación de bienes de capital, sin materiales de construcción (Var.% real)=2.2237] in table inversion_anual for period 2023.0
+2025/05/30 14:09:00 PM - src.logger - INFO - Updated [Exportaciones (Var.% real)=4.1354] in table comercio_exterior_anual for period 2023.0
+2025/05/30 14:09:00 PM - src.logger - INFO - Updated [Importaciones (Var.% real)=1.3016] in table comercio_exterior_anual for period 2023.0
+2025/05/30 14:09:01 PM - src.logger - INFO - Updated [PBI Agropecuario (Var.% real)=-2.2794] in table agropecuario_anual for period 2023.0
+2025/05/30 14:09:01 PM - src.logger - INFO - Updated [PBI Agrícola (Var.% real)=-3.6408] in table agropecuario_anual for period 2023.0
+2025/05/30 14:09:01 PM - src.logger - INFO - Updated [PBI Pecuario (Var.% real)=0.0950] in table agropecuario_anual for period 2023.0
+2025/05/30 14:09:02 PM - src.logger - INFO - Updated [PBI Nacional agropecuario (S/ Miles del 2007)=335848151.2914] in table agropecuario_anual for period 2023.0
+2025/05/30 14:09:02 PM - src.logger - INFO - Updated [PBI Pesca (Var.% real)=-21.2271] in table pesca_anual for period 2023.0
+2025/05/30 14:09:02 PM - src.logger - INFO - Updated [PBI Nacional Pesca (S/ Miles del 2007)=18975980.9655] in table pesca_anual for period 2023.0
+2025/05/30 14:09:03 PM - src.logger - INFO - Updated [PBI Nacional Pesca (Var. % real)=-21.2271] in table pesca_anual for period 2023.0
+2025/05/30 14:09:03 PM - src.logger - INFO - Updated [PBI Manufactura (Var.% real)=-6.5397] in table manufactura_anual for period 2023.0
+2025/05/30 14:09:03 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (S/ Miles del 2007)=659083623.0033] in table manufactura_anual for period 2023.0
+2025/05/30 14:09:03 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (Var. % real)=-6.5397] in table manufactura_anual for period 2023.0
+2025/05/30 14:09:04 PM - src.logger - INFO - Updated [PBI Manufactura no primaria (Var.% real)=-7.9507] in table manufactura_anual for period 2023.0
+2025/05/30 14:09:04 PM - src.logger - INFO - Updated [PBI Manufactura primaria (Var.% real)=-2.3021] in table manufactura_anual for period 2023.0
+2025/05/30 14:09:04 PM - src.logger - INFO - Updated [Minería e Hidrocarburos (Var.% real)=8.0504] in table mineria_anual for period 2023.0
+2025/05/30 14:09:05 PM - src.logger - INFO - Updated [PBI Minería  (Var.% real)=9.2795] in table mineria_anual for period 2023.0
+2025/05/30 14:09:05 PM - src.logger - INFO - Updated [PBI Nacional Minería e hidrocarburos (S/ Miles del 2007)=693305914.7088] in table mineria_anual for period 2023.0
+2025/05/30 14:09:05 PM - src.logger - INFO - Updated [PBI Hidrocarburos (Var.% real)=0.6625] in table hidrocarburos_anual for period 2023.0
+2025/05/30 14:09:06 PM - src.logger - INFO - Updated [PBI Comercio (Var.% real)=2.3554] in table comercio_anual for period 2023.0
+2025/05/30 14:09:06 PM - src.logger - INFO - Updated [PBI Nacional Comercio (S/ Miles del 2007)=614308992.1228] in table comercio_anual for period 2023.0
+2025/05/30 14:09:06 PM - src.logger - INFO - Updated [PBI Construcción (Var.% real)=-8.1857] in table construccion_anual for period 2023.0
+2025/05/30 14:09:07 PM - src.logger - INFO - Updated [Gasto público en construcción total (Var. % real)=-1.7216] in table construccion_anual for period 2023.0
+2025/05/30 14:09:07 PM - src.logger - INFO - Updated [PBI Nacional Construcción (S/ Miles del 2007)=355664704.1977] in table construccion_anual for period 2023.0
+2025/05/30 14:09:07 PM - src.logger - INFO - Updated [Consumo interno de cemento (Var.%)=-11.8218] in table construccion_anual for period 2023.0
+2025/05/30 14:09:08 PM - src.logger - INFO - Updated [PBI Servicios (Var.% real)=-0.0952] in table pbi_otros_anual for period 2023.0
+2025/05/30 14:09:08 PM - src.logger - INFO - Updated [PBI Nacional Administración pública (S/ Miles del 2007)=321310000.0000] in table pbi_otros_anual for period 2023.0
+2025/05/30 14:09:08 PM - src.logger - INFO - Updated [PBI Nacional Otros servicios (S/ Miles del 2007)=778240000.0000] in table pbi_otros_anual for period 2023.0
+2025/05/30 14:09:09 PM - src.logger - INFO - Updated [PBI Nacional Administración pública (Var. % real)=2.9444] in table pbi_otros_anual for period 2023.0
+2025/05/30 14:09:09 PM - src.logger - INFO - Updated [PBI Nacional Otros servicios (Var. % real)=2.7773] in table pbi_otros_anual for period 2023.0
+2025/05/30 14:09:09 PM - src.logger - INFO - Updated [Inflación (%, fdp)=3.2374] in table inflacion_anual for period 2023.0
+2025/05/30 14:09:09 PM - src.logger - INFO - Updated [Inflación, promedio de período (%)=6.3107] in table inflacion_anual for period 2023.0
+2025/05/30 14:09:10 PM - src.logger - INFO - Updated [Índice de precios al consumidor Lima Metropolitana=111.0470] in table inflacion_anual for period 2023.0
+2025/05/30 14:09:10 PM - src.logger - INFO - Updated [Resultado fiscal (% del PBI)=-2.7447] in table financiero_anual for period 2023.0
+2025/05/30 14:09:10 PM - src.logger - INFO - Updated [Deuda pública (% del PBI)=32.3598] in table financiero_anual for period 2023.0
+2025/05/30 14:09:11 PM - src.logger - INFO - Updated [Cuenta corriente (% del PBI)=0.3234] in table financiero_anual for period 2023.0
+2025/05/30 14:09:11 PM - src.logger - INFO - Updated [Tipo de cambio, promedio de período (S/ por US$)=3.7438] in table financiero_anual for period 2023.0
+2025/05/30 14:09:11 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (S/ Miles del 2007)=109894623.1427] in table electricidad_anual for period 2023.0
+2025/05/30 14:09:12 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (Var. % real)=3.6925] in table electricidad_anual for period 2023.0
+2025/05/30 14:09:12 PM - src.logger - INFO - Updated [PBI Nacional Alojamiento y restaurante (S/ Miles del 2007)=156620000.0000] in table turismo_anual for period 2023.0
+2025/05/30 14:09:12 PM - src.logger - INFO - Updated [PBI Nacional Alojamiento y restaurante (Var. % real)=2.7488] in table turismo_anual for period 2023.0
+2025/05/30 14:09:13 PM - src.logger - INFO - Updated [Gasto público en construcción Lima (Var. % real)=16.9309] in table construccion_regional_anual for period 2023.0
+2025/05/30 14:09:13 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Norte (Var. % real)=-9.2053] in table construccion_regional_anual for period 2023.0
+2025/05/30 14:09:13 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Sur (Var. % real)=-13.0550] in table construccion_regional_anual for period 2023.0
+2025/05/30 14:09:14 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Oriente (Var. % real)=-2.8506] in table construccion_regional_anual for period 2023.0
+2025/05/30 14:09:14 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Centro (Var. % real)=-2.1588] in table construccion_regional_anual for period 2023.0
+2025/05/30 14:09:14 PM - src.logger - INFO - Updated [PBI Nacional Transporte (S/ Miles del 2007)=294670000.0000] in table transporte_anual for period 2023.0
+2025/05/30 14:09:15 PM - src.logger - INFO - Updated [PBI Nacional Transporte (Var. % real)=1.2716] in table transporte_anual for period 2023.0
+2025/05/30 14:09:15 PM - src.logger - INFO - Updated [PBI Nacional Telecomunicaciones (S/ Miles del 2007)=284980000.0000] in table telecom_anual for period 2023.0
+2025/05/30 14:09:15 PM - src.logger - INFO - Updated [PBI Nacional Telecomunicaciones (Var. % real)=-5.8446] in table telecom_anual for period 2023.0
+2025/05/30 14:09:16 PM - src.logger - INFO - Updated [PBI nominal (US$ millones)=295160.3673] in table pbi_anual for period 2024.0
+2025/05/30 14:09:16 PM - src.logger - INFO - Updated [Demanda interna (Var.% real)=3.9728] in table pbi_anual for period 2024.0
+2025/05/30 14:09:16 PM - src.logger - INFO - Updated [PBI per cápita (US$)=8671.3792] in table pbi_anual for period 2024.0
+2025/05/30 14:09:17 PM - src.logger - INFO - Updated [PBI Nacional (S/ Miles del 2007)=5821276061.3737] in table pbi_anual for period 2024.0
+2025/05/30 14:09:17 PM - src.logger - INFO - Updated [PBI Nacional no primario (S/Miles del 2007)=4567352392.7237] in table pbi_anual for period 2024.0
+2025/05/30 14:09:17 PM - src.logger - INFO - Updated [PBI real (Millones de S/ del 2007)=583929.3040] in table pbi_anual for period 2024.0
+2025/05/30 14:09:17 PM - src.logger - INFO - Updated [PBI nominal (Millones de S/)=1106536.1129] in table pbi_anual for period 2024.0
+2025/05/30 14:09:18 PM - src.logger - INFO - Updated [PBI nominal (Var. %)=8.7595] in table pbi_anual for period 2024.0
+2025/05/30 14:09:18 PM - src.logger - INFO - Updated [Demanda interna sin inventarios (Var.% real)=3.1868] in table pbi_anual for period 2024.0
+2025/05/30 14:09:18 PM - src.logger - INFO - Updated [Crédito de consumo (Var.% nominal anual)=-2.8000] in table consumo_anual for period 2024.0
+2025/05/30 14:09:19 PM - src.logger - INFO - Updated [Consumo privado (Var.% real)=2.7686] in table consumo_anual for period 2024.0
+2025/05/30 14:09:19 PM - src.logger - INFO - Updated [Consumo público (Var.% real)=2.1434] in table consumo_anual for period 2024.0
+2025/05/30 14:09:20 PM - src.logger - INFO - Updated [Consumo total (Var.% real)=2.6566] in table consumo_anual for period 2024.0
+2025/05/30 14:09:20 PM - src.logger - INFO - Updated [Inversión privada (Var.% real)=3.2641] in table inversion_anual for period 2024.0
+2025/05/30 14:09:20 PM - src.logger - INFO - Updated [Inversión pública (Var.% real)=14.6610] in table inversion_anual for period 2024.0
+2025/05/30 14:09:20 PM - src.logger - INFO - Updated [Inversión total (Var.% real)=5.5537] in table inversion_anual for period 2024.0
+2025/05/30 14:09:21 PM - src.logger - INFO - Updated [Importación de bienes de capital, sin materiales de construcción (Var.% real)=9.2223] in table inversion_anual for period 2024.0
+2025/05/30 14:09:21 PM - src.logger - INFO - Updated [Exportaciones (Var.% real)=6.0550] in table comercio_exterior_anual for period 2024.0
+2025/05/30 14:09:21 PM - src.logger - INFO - Updated [Importaciones (Var.% real)=8.3802] in table comercio_exterior_anual for period 2024.0
+2025/05/30 14:09:22 PM - src.logger - INFO - Updated [PBI Agropecuario (Var.% real)=5.6118] in table agropecuario_anual for period 2024.0
+2025/05/30 14:09:22 PM - src.logger - INFO - Updated [PBI Agrícola (Var.% real)=7.1071] in table agropecuario_anual for period 2024.0
+2025/05/30 14:09:22 PM - src.logger - INFO - Updated [PBI Pecuario (Var.% real)=3.0957] in table agropecuario_anual for period 2024.0
+2025/05/30 14:09:23 PM - src.logger - INFO - Updated [PBI Nacional agropecuario (S/ Miles del 2007)=342463561.5424] in table agropecuario_anual for period 2024.0
+2025/05/30 14:09:23 PM - src.logger - INFO - Updated [PBI Pesca (Var.% real)=24.8909] in table pesca_anual for period 2024.0
+2025/05/30 14:09:23 PM - src.logger - INFO - Updated [PBI Nacional Pesca (S/ Miles del 2007)=23134359.0461] in table pesca_anual for period 2024.0
+2025/05/30 14:09:24 PM - src.logger - INFO - Updated [PBI Nacional Pesca (Var. % real)=21.9139] in table pesca_anual for period 2024.0
+2025/05/30 14:09:24 PM - src.logger - INFO - Updated [PBI Manufactura (Var.% real)=4.0011] in table manufactura_anual for period 2024.0
+2025/05/30 14:09:24 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (S/ Miles del 2007)=681666200.1076] in table manufactura_anual for period 2024.0
+2025/05/30 14:09:25 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (Var. % real)=3.4264] in table manufactura_anual for period 2024.0
+2025/05/30 14:09:25 PM - src.logger - INFO - Updated [PBI Manufactura no primaria (Var.% real)=2.4819] in table manufactura_anual for period 2024.0
+2025/05/30 14:09:26 PM - src.logger - INFO - Updated [PBI Manufactura primaria (Var.% real)=8.2174] in table manufactura_anual for period 2024.0
+2025/05/30 14:09:26 PM - src.logger - INFO - Updated [Minería e Hidrocarburos (Var.% real)=2.0600] in table mineria_anual for period 2024.0
+2025/05/30 14:09:26 PM - src.logger - INFO - Updated [PBI Minería  (Var.% real)=2.0587] in table mineria_anual for period 2024.0
+2025/05/30 14:09:26 PM - src.logger - INFO - Updated [PBI Nacional Minería e hidrocarburos (S/ Miles del 2007)=706858945.3515] in table mineria_anual for period 2024.0
+2025/05/30 14:09:27 PM - src.logger - INFO - Updated [PBI Hidrocarburos (Var.% real)=2.0686] in table hidrocarburos_anual for period 2024.0
+2025/05/30 14:09:27 PM - src.logger - INFO - Updated [PBI Comercio (Var.% real)=2.9636] in table comercio_anual for period 2024.0
+2025/05/30 14:09:27 PM - src.logger - INFO - Updated [PBI Nacional Comercio (S/ Miles del 2007)=635036458.7946] in table comercio_anual for period 2024.0
+2025/05/30 14:09:28 PM - src.logger - INFO - Updated [PBI Construcción (Var.% real)=3.6253] in table construccion_anual for period 2024.0
+2025/05/30 14:09:28 PM - src.logger - INFO - Updated [Gasto público en construcción total (Var. % real)=14.0929] in table construccion_anual for period 2024.0
+2025/05/30 14:09:28 PM - src.logger - INFO - Updated [PBI Nacional Construcción (S/ Miles del 2007)=372888246.9497] in table construccion_anual for period 2024.0
+2025/05/30 14:09:29 PM - src.logger - INFO - Updated [Consumo interno de cemento (Var.%)=0.2815] in table construccion_anual for period 2024.0
+2025/05/30 14:09:29 PM - src.logger - INFO - Updated [PBI Servicios (Var.% real)=3.1569] in table pbi_otros_anual for period 2024.0
+2025/05/30 14:09:29 PM - src.logger - INFO - Skipping [PBI Nacional Administración pública (S/ Miles del 2007)] in table pbi_otros_anual for period 2024.0
+2025/05/30 14:09:29 PM - src.logger - INFO - Skipping [PBI Nacional Otros servicios (S/ Miles del 2007)] in table pbi_otros_anual for period 2024.0
+2025/05/30 14:09:29 PM - src.logger - INFO - Skipping [PBI Nacional Administración pública (Var. % real)] in table pbi_otros_anual for period 2024.0
+2025/05/30 14:09:29 PM - src.logger - INFO - Skipping [PBI Nacional Otros servicios (Var. % real)] in table pbi_otros_anual for period 2024.0
+2025/05/30 14:09:29 PM - src.logger - INFO - Updated [Inflación (%, fdp)=1.9644] in table inflacion_anual for period 2024.0
+2025/05/30 14:09:30 PM - src.logger - INFO - Updated [Inflación, promedio de período (%)=2.3548] in table inflacion_anual for period 2024.0
+2025/05/30 14:09:30 PM - src.logger - INFO - Updated [Índice de precios al consumidor Lima Metropolitana=113.6570] in table inflacion_anual for period 2024.0
+2025/05/30 14:09:30 PM - src.logger - INFO - Updated [Resultado fiscal (% del PBI)=-3.4582] in table financiero_anual for period 2024.0
+2025/05/30 14:09:31 PM - src.logger - INFO - Updated [Deuda pública (% del PBI)=32.0984] in table financiero_anual for period 2024.0
+2025/05/30 14:09:31 PM - src.logger - INFO - Updated [Cuenta corriente (% del PBI)=2.1649] in table financiero_anual for period 2024.0
+2025/05/30 14:09:32 PM - src.logger - INFO - Updated [Tipo de cambio, promedio de período (S/ por US$)=3.7539] in table financiero_anual for period 2024.0
+2025/05/30 14:09:32 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (S/ Miles del 2007)=11368611.8902] in table electricidad_anual for period 2024.0
+2025/05/30 14:09:32 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (Var. % real)=-89.6550] in table electricidad_anual for period 2024.0
+2025/05/30 14:09:32 PM - src.logger - INFO - Skipping [PBI Nacional Alojamiento y restaurante (S/ Miles del 2007)] in table turismo_anual for period 2024.0
+2025/05/30 14:09:32 PM - src.logger - INFO - Skipping [PBI Nacional Alojamiento y restaurante (Var. % real)] in table turismo_anual for period 2024.0
+2025/05/30 14:09:33 PM - src.logger - INFO - Updated [Gasto público en construcción Lima (Var. % real)=52.9234] in table construccion_regional_anual for period 2024.0
+2025/05/30 14:09:33 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Norte (Var. % real)=10.4721] in table construccion_regional_anual for period 2024.0
+2025/05/30 14:09:33 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Sur (Var. % real)=9.0677] in table construccion_regional_anual for period 2024.0
+2025/05/30 14:09:34 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Oriente (Var. % real)=21.0468] in table construccion_regional_anual for period 2024.0
+2025/05/30 14:09:34 PM - src.logger - INFO - Updated [Gasto público en construcción Zona Centro (Var. % real)=14.4760] in table construccion_regional_anual for period 2024.0
+2025/05/30 14:09:34 PM - src.logger - INFO - Skipping [PBI Nacional Transporte (S/ Miles del 2007)] in table transporte_anual for period 2024.0
+2025/05/30 14:09:34 PM - src.logger - INFO - Skipping [PBI Nacional Transporte (Var. % real)] in table transporte_anual for period 2024.0
+2025/05/30 14:09:34 PM - src.logger - INFO - Skipping [PBI Nacional Telecomunicaciones (S/ Miles del 2007)] in table telecom_anual for period 2024.0
+2025/05/30 14:09:34 PM - src.logger - INFO - Skipping [PBI Nacional Telecomunicaciones (Var. % real)] in table telecom_anual for period 2024.0
+2025/05/30 14:09:34 PM - src.logger - INFO - Updated [PBI nominal (US$ millones)=310118.3515] in table pbi_anual for period 2025.0
+2025/05/30 14:09:34 PM - src.logger - INFO - Updated [Demanda interna (Var.% real)=3.3000] in table pbi_anual for period 2025.0
+2025/05/30 14:09:35 PM - src.logger - INFO - Updated [PBI per cápita (US$)=9028.1000] in table pbi_anual for period 2025.0
+2025/05/30 14:09:35 PM - src.logger - INFO - Updated [PBI Nacional (S/ Miles del 2007)=5975327246.9353] in table pbi_anual for period 2025.0
+2025/05/30 14:09:35 PM - src.logger - INFO - Updated [PBI Nacional no primario (S/Miles del 2007)=4685791153.2392] in table pbi_anual for period 2025.0
+2025/05/30 14:09:36 PM - src.logger - INFO - Updated [PBI real (Millones de S/ del 2007)=600943.3811] in table pbi_anual for period 2025.0
+2025/05/30 14:09:36 PM - src.logger - INFO - Updated [PBI nominal (Millones de S/)=1145184.4735] in table pbi_anual for period 2025.0
+2025/05/30 14:09:36 PM - src.logger - INFO - Updated [PBI nominal (Var. %)=5.5000] in table pbi_anual for period 2025.0
+2025/05/30 14:09:37 PM - src.logger - INFO - Updated [Demanda interna sin inventarios (Var.% real)=2.9000] in table pbi_anual for period 2025.0
+2025/05/30 14:09:37 PM - src.logger - INFO - Updated [Crédito de consumo (Var.% nominal anual)=9.0000] in table consumo_anual for period 2025.0
+2025/05/30 14:09:38 PM - src.logger - INFO - Updated [Consumo privado (Var.% real)=2.6000] in table consumo_anual for period 2025.0
+2025/05/30 14:09:38 PM - src.logger - INFO - Updated [Consumo público (Var.% real)=3.1000] in table consumo_anual for period 2025.0
+2025/05/30 14:09:38 PM - src.logger - INFO - Updated [Consumo total (Var.% real)=1.9000] in table consumo_anual for period 2025.0
+2025/05/30 14:09:38 PM - src.logger - INFO - Updated [Inversión privada (Var.% real)=4.0000] in table inversion_anual for period 2025.0
+2025/05/30 14:09:39 PM - src.logger - INFO - Updated [Inversión pública (Var.% real)=5.5000] in table inversion_anual for period 2025.0
+2025/05/30 14:09:39 PM - src.logger - INFO - Updated [Inversión total (Var.% real)=4.4000] in table inversion_anual for period 2025.0
+2025/05/30 14:09:39 PM - src.logger - INFO - Skipping [Importación de bienes de capital, sin materiales de construcción (Var.% real)] in table inversion_anual for period 2025.0
+2025/05/30 14:09:39 PM - src.logger - INFO - Updated [Exportaciones (Var.% real)=4.4000] in table comercio_exterior_anual for period 2025.0
+2025/05/30 14:09:40 PM - src.logger - INFO - Updated [Importaciones (Var.% real)=6.5000] in table comercio_exterior_anual for period 2025.0
+2025/05/30 14:09:40 PM - src.logger - INFO - Updated [PBI Agropecuario (Var.% real)=4.7000] in table agropecuario_anual for period 2025.0
+2025/05/30 14:09:40 PM - src.logger - INFO - Updated [PBI Agrícola (Var.% real)=5.6000] in table agropecuario_anual for period 2025.0
+2025/05/30 14:09:41 PM - src.logger - INFO - Updated [PBI Pecuario (Var.% real)=3.2000] in table agropecuario_anual for period 2025.0
+2025/05/30 14:09:41 PM - src.logger - INFO - Updated [PBI Nacional agropecuario (S/ Miles del 2007)=355528897.0641] in table agropecuario_anual for period 2025.0
+2025/05/30 14:09:41 PM - src.logger - INFO - Updated [PBI Pesca (Var.% real)=4.5000] in table pesca_anual for period 2025.0
+2025/05/30 14:09:42 PM - src.logger - INFO - Updated [PBI Nacional Pesca (S/ Miles del 2007)=24001212.8845] in table pesca_anual for period 2025.0
+2025/05/30 14:09:42 PM - src.logger - INFO - Updated [PBI Nacional Pesca (Var. % real)=3.7470] in table pesca_anual for period 2025.0
+2025/05/30 14:09:42 PM - src.logger - INFO - Updated [PBI Manufactura (Var.% real)=1.7000] in table manufactura_anual for period 2025.0
+2025/05/30 14:09:43 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (S/ Miles del 2007)=693559063.5752] in table manufactura_anual for period 2025.0
+2025/05/30 14:09:43 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (Var. % real)=1.7447] in table manufactura_anual for period 2025.0
+2025/05/30 14:09:43 PM - src.logger - INFO - Updated [PBI Manufactura no primaria (Var.% real)=0.9000] in table manufactura_anual for period 2025.0
+2025/05/30 14:09:44 PM - src.logger - INFO - Updated [PBI Manufactura primaria (Var.% real)=3.9000] in table manufactura_anual for period 2025.0
+2025/05/30 14:09:44 PM - src.logger - INFO - Updated [Minería e Hidrocarburos (Var.% real)=3.1000] in table mineria_anual for period 2025.0
+2025/05/30 14:09:44 PM - src.logger - INFO - Updated [PBI Minería  (Var.% real)=3.2000] in table mineria_anual for period 2025.0
+2025/05/30 14:09:45 PM - src.logger - INFO - Updated [PBI Nacional Minería e hidrocarburos (S/ Miles del 2007)=724776842.9437] in table mineria_anual for period 2025.0
+2025/05/30 14:09:45 PM - src.logger - INFO - Updated [PBI Hidrocarburos (Var.% real)=2.4000] in table hidrocarburos_anual for period 2025.0
+2025/05/30 14:09:45 PM - src.logger - INFO - Updated [PBI Comercio (Var.% real)=2.8000] in table comercio_anual for period 2025.0
+2025/05/30 14:09:46 PM - src.logger - INFO - Updated [PBI Nacional Comercio (S/ Miles del 2007)=650193641.6766] in table comercio_anual for period 2025.0
+2025/05/30 14:09:46 PM - src.logger - INFO - Updated [PBI Construcción (Var.% real)=3.6000] in table construccion_anual for period 2025.0
+2025/05/30 14:09:46 PM - src.logger - INFO - Skipping [Gasto público en construcción total (Var. % real)] in table construccion_anual for period 2025.0
+2025/05/30 14:09:46 PM - src.logger - INFO - Updated [PBI Nacional Construcción (S/ Miles del 2007)=386028317.0127] in table construccion_anual for period 2025.0
+2025/05/30 14:09:46 PM - src.logger - INFO - Skipping [Consumo interno de cemento (Var.%)] in table construccion_anual for period 2025.0
+2025/05/30 14:09:47 PM - src.logger - INFO - Updated [PBI Servicios (Var.% real)=2.6000] in table pbi_otros_anual for period 2025.0
+2025/05/30 14:09:47 PM - src.logger - INFO - Skipping [PBI Nacional Administración pública (S/ Miles del 2007)] in table pbi_otros_anual for period 2025.0
+2025/05/30 14:09:47 PM - src.logger - INFO - Skipping [PBI Nacional Otros servicios (S/ Miles del 2007)] in table pbi_otros_anual for period 2025.0
+2025/05/30 14:09:47 PM - src.logger - INFO - Skipping [PBI Nacional Administración pública (Var. % real)] in table pbi_otros_anual for period 2025.0
+2025/05/30 14:09:47 PM - src.logger - INFO - Skipping [PBI Nacional Otros servicios (Var. % real)] in table pbi_otros_anual for period 2025.0
+2025/05/30 14:09:47 PM - src.logger - INFO - Updated [Inflación (%, fdp)=2.3000] in table inflacion_anual for period 2025.0
+2025/05/30 14:09:47 PM - src.logger - INFO - Updated [Inflación, promedio de período (%)=1.8000] in table inflacion_anual for period 2025.0
+2025/05/30 14:09:48 PM - src.logger - INFO - Updated [Índice de precios al consumidor Lima Metropolitana=115.5520] in table inflacion_anual for period 2025.0
+2025/05/30 14:09:48 PM - src.logger - INFO - Updated [Resultado fiscal (% del PBI)=-2.7000] in table financiero_anual for period 2025.0
+2025/05/30 14:09:48 PM - src.logger - INFO - Updated [Deuda pública (% del PBI)=33.4000] in table financiero_anual for period 2025.0
+2025/05/30 14:09:49 PM - src.logger - INFO - Updated [Cuenta corriente (% del PBI)=2.1890] in table financiero_anual for period 2025.0
+2025/05/30 14:09:49 PM - src.logger - INFO - Updated [Tipo de cambio, promedio de período (S/ por US$)=3.7192] in table financiero_anual for period 2025.0
+2025/05/30 14:09:49 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (S/ Miles del 2007)=11698582.6801] in table electricidad_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (Var. % real)=2.9025] in table electricidad_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [PBI Nacional Alojamiento y restaurante (S/ Miles del 2007)] in table turismo_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [PBI Nacional Alojamiento y restaurante (Var. % real)] in table turismo_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [Gasto público en construcción Lima (Var. % real)] in table construccion_regional_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Norte (Var. % real)] in table construccion_regional_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Sur (Var. % real)] in table construccion_regional_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Oriente (Var. % real)] in table construccion_regional_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Centro (Var. % real)] in table construccion_regional_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [PBI Nacional Transporte (S/ Miles del 2007)] in table transporte_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [PBI Nacional Transporte (Var. % real)] in table transporte_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [PBI Nacional Telecomunicaciones (S/ Miles del 2007)] in table telecom_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Skipping [PBI Nacional Telecomunicaciones (Var. % real)] in table telecom_anual for period 2025.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Updated [PBI nominal (US$ millones)=316409.8542] in table pbi_anual for period 2026.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Updated [Demanda interna (Var.% real)=1.7000] in table pbi_anual for period 2026.0
+2025/05/30 14:09:50 PM - src.logger - INFO - Updated [PBI per cápita (US$)=9128.9000] in table pbi_anual for period 2026.0
+2025/05/30 14:09:51 PM - src.logger - INFO - Updated [PBI Nacional (S/ Miles del 2007)=6128104844.6395] in table pbi_anual for period 2026.0
+2025/05/30 14:09:51 PM - src.logger - INFO - Updated [PBI Nacional no primario (S/Miles del 2007)=4819359204.8745] in table pbi_anual for period 2026.0
+2025/05/30 14:09:51 PM - src.logger - INFO - Updated [PBI real (Millones de S/ del 2007)=616271.4495] in table pbi_anual for period 2026.0
+2025/05/30 14:09:52 PM - src.logger - INFO - Updated [PBI nominal (Millones de S/)=1191668.9264] in table pbi_anual for period 2026.0
+2025/05/30 14:09:52 PM - src.logger - INFO - Updated [PBI nominal (Var. %)=4.1000] in table pbi_anual for period 2026.0
+2025/05/30 14:09:52 PM - src.logger - INFO - Updated [Demanda interna sin inventarios (Var.% real)=1.9000] in table pbi_anual for period 2026.0
+2025/05/30 14:09:53 PM - src.logger - INFO - Updated [Crédito de consumo (Var.% nominal anual)=5.0000] in table consumo_anual for period 2026.0
+2025/05/30 14:09:53 PM - src.logger - INFO - Updated [Consumo privado (Var.% real)=2.0000] in table consumo_anual for period 2026.0
+2025/05/30 14:09:53 PM - src.logger - INFO - Updated [Consumo público (Var.% real)=1.6000] in table consumo_anual for period 2026.0
+2025/05/30 14:09:54 PM - src.logger - INFO - Updated [Consumo total (Var.% real)=2.8000] in table consumo_anual for period 2026.0
+2025/05/30 14:09:54 PM - src.logger - INFO - Updated [Inversión privada (Var.% real)=1.5000] in table inversion_anual for period 2026.0
+2025/05/30 14:09:54 PM - src.logger - INFO - Updated [Inversión pública (Var.% real)=1.3000] in table inversion_anual for period 2026.0
+2025/05/30 14:09:55 PM - src.logger - INFO - Updated [Inversión total (Var.% real)=1.5000] in table inversion_anual for period 2026.0
+2025/05/30 14:09:55 PM - src.logger - INFO - Skipping [Importación de bienes de capital, sin materiales de construcción (Var.% real)] in table inversion_anual for period 2026.0
+2025/05/30 14:09:55 PM - src.logger - INFO - Updated [Exportaciones (Var.% real)=2.4000] in table comercio_exterior_anual for period 2026.0
+2025/05/30 14:09:55 PM - src.logger - INFO - Updated [Importaciones (Var.% real)=-0.1000] in table comercio_exterior_anual for period 2026.0
+2025/05/30 14:09:56 PM - src.logger - INFO - Updated [PBI Agropecuario (Var.% real)=3.6000] in table agropecuario_anual for period 2026.0
+2025/05/30 14:09:56 PM - src.logger - INFO - Updated [PBI Agrícola (Var.% real)=4.1000] in table agropecuario_anual for period 2026.0
+2025/05/30 14:09:56 PM - src.logger - INFO - Updated [PBI Pecuario (Var.% real)=2.7000] in table agropecuario_anual for period 2026.0
+2025/05/30 14:09:57 PM - src.logger - INFO - Updated [PBI Nacional agropecuario (S/ Miles del 2007)=365929568.9452] in table agropecuario_anual for period 2026.0
+2025/05/30 14:09:57 PM - src.logger - INFO - Updated [PBI Pesca (Var.% real)=-1.4000] in table pesca_anual for period 2026.0
+2025/05/30 14:09:57 PM - src.logger - INFO - Updated [PBI Nacional Pesca (S/ Miles del 2007)=24804141.2527] in table pesca_anual for period 2026.0
+2025/05/30 14:09:57 PM - src.logger - INFO - Updated [PBI Nacional Pesca (Var. % real)=3.3454] in table pesca_anual for period 2026.0
+2025/05/30 14:09:58 PM - src.logger - INFO - Updated [PBI Manufactura (Var.% real)=0.7000] in table manufactura_anual for period 2026.0
+2025/05/30 14:09:58 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (S/ Miles del 2007)=710246505.3398] in table manufactura_anual for period 2026.0
+2025/05/30 14:09:58 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (Var. % real)=2.4061] in table manufactura_anual for period 2026.0
+2025/05/30 14:09:59 PM - src.logger - INFO - Updated [PBI Manufactura no primaria (Var.% real)=0.4000] in table manufactura_anual for period 2026.0
+2025/05/30 14:09:59 PM - src.logger - INFO - Updated [PBI Manufactura primaria (Var.% real)=1.5000] in table manufactura_anual for period 2026.0
+2025/05/30 14:10:00 PM - src.logger - INFO - Updated [Minería e Hidrocarburos (Var.% real)=0.5000] in table mineria_anual for period 2026.0
+2025/05/30 14:10:00 PM - src.logger - INFO - Updated [PBI Minería  (Var.% real)=-0.1000] in table mineria_anual for period 2026.0
+2025/05/30 14:10:00 PM - src.logger - INFO - Updated [PBI Nacional Minería e hidrocarburos (S/ Miles del 2007)=728963257.7837] in table mineria_anual for period 2026.0
+2025/05/30 14:10:01 PM - src.logger - INFO - Updated [PBI Hidrocarburos (Var.% real)=4.3000] in table hidrocarburos_anual for period 2026.0
+2025/05/30 14:10:01 PM - src.logger - INFO - Updated [PBI Comercio (Var.% real)=2.8000] in table comercio_anual for period 2026.0
+2025/05/30 14:10:01 PM - src.logger - INFO - Updated [PBI Nacional Comercio (S/ Miles del 2007)=666760833.3137] in table comercio_anual for period 2026.0
+2025/05/30 14:10:01 PM - src.logger - INFO - Updated [PBI Construcción (Var.% real)=2.1000] in table construccion_anual for period 2026.0
+2025/05/30 14:10:01 PM - src.logger - INFO - Skipping [Gasto público en construcción total (Var. % real)] in table construccion_anual for period 2026.0
+2025/05/30 14:10:02 PM - src.logger - INFO - Updated [PBI Nacional Construcción (S/ Miles del 2007)=395288183.3996] in table construccion_anual for period 2026.0
+2025/05/30 14:10:02 PM - src.logger - INFO - Skipping [Consumo interno de cemento (Var.%)] in table construccion_anual for period 2026.0
+2025/05/30 14:10:02 PM - src.logger - INFO - Updated [PBI Servicios (Var.% real)=3.1000] in table pbi_otros_anual for period 2026.0
+2025/05/30 14:10:02 PM - src.logger - INFO - Skipping [PBI Nacional Administración pública (S/ Miles del 2007)] in table pbi_otros_anual for period 2026.0
+2025/05/30 14:10:02 PM - src.logger - INFO - Skipping [PBI Nacional Otros servicios (S/ Miles del 2007)] in table pbi_otros_anual for period 2026.0
+2025/05/30 14:10:02 PM - src.logger - INFO - Skipping [PBI Nacional Administración pública (Var. % real)] in table pbi_otros_anual for period 2026.0
+2025/05/30 14:10:02 PM - src.logger - INFO - Skipping [PBI Nacional Otros servicios (Var. % real)] in table pbi_otros_anual for period 2026.0
+2025/05/30 14:10:02 PM - src.logger - INFO - Updated [Inflación (%, fdp)=2.5000] in table inflacion_anual for period 2026.0
+2025/05/30 14:10:03 PM - src.logger - INFO - Updated [Inflación, promedio de período (%)=2.5000] in table inflacion_anual for period 2026.0
+2025/05/30 14:10:03 PM - src.logger - INFO - Updated [Índice de precios al consumidor Lima Metropolitana=117.7790] in table inflacion_anual for period 2026.0
+2025/05/30 14:10:03 PM - src.logger - INFO - Updated [Resultado fiscal (% del PBI)=-2.7000] in table financiero_anual for period 2026.0
+2025/05/30 14:10:04 PM - src.logger - INFO - Updated [Deuda pública (% del PBI)=34.4000] in table financiero_anual for period 2026.0
+2025/05/30 14:10:04 PM - src.logger - INFO - Updated [Cuenta corriente (% del PBI)=0.4000] in table financiero_anual for period 2026.0
+2025/05/30 14:10:04 PM - src.logger - INFO - Updated [Tipo de cambio, promedio de período (S/ por US$)=3.7800] in table financiero_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (S/ Miles del 2007)=12093990.6298] in table electricidad_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (Var. % real)=3.3800] in table electricidad_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [PBI Nacional Alojamiento y restaurante (S/ Miles del 2007)] in table turismo_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [PBI Nacional Alojamiento y restaurante (Var. % real)] in table turismo_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [Gasto público en construcción Lima (Var. % real)] in table construccion_regional_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Norte (Var. % real)] in table construccion_regional_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Sur (Var. % real)] in table construccion_regional_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Oriente (Var. % real)] in table construccion_regional_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Centro (Var. % real)] in table construccion_regional_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [PBI Nacional Transporte (S/ Miles del 2007)] in table transporte_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [PBI Nacional Transporte (Var. % real)] in table transporte_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [PBI Nacional Telecomunicaciones (S/ Miles del 2007)] in table telecom_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Skipping [PBI Nacional Telecomunicaciones (Var. % real)] in table telecom_anual for period 2026.0
+2025/05/30 14:10:05 PM - src.logger - INFO - Updated [PBI nominal (US$ millones)=333537.9000] in table pbi_anual for period 2027.0
+2025/05/30 14:10:06 PM - src.logger - INFO - Updated [Demanda interna (Var.% real)=2.7000] in table pbi_anual for period 2027.0
+2025/05/30 14:10:06 PM - src.logger - INFO - Updated [PBI per cápita (US$)=9290.8000] in table pbi_anual for period 2027.0
+2025/05/30 14:10:06 PM - src.logger - INFO - Updated [PBI Nacional (S/ Miles del 2007)=6294063056.3441] in table pbi_anual for period 2027.0
+2025/05/30 14:10:07 PM - src.logger - INFO - Updated [PBI Nacional no primario (S/Miles del 2007)=4973030426.9320] in table pbi_anual for period 2027.0
+2025/05/30 14:10:07 PM - src.logger - INFO - Updated [PBI real (Millones de S/ del 2007)=632630.6137] in table pbi_anual for period 2027.0
+2025/05/30 14:10:07 PM - src.logger - INFO - Updated [PBI nominal (Millones de S/)=1250767.2313] in table pbi_anual for period 2027.0
+2025/05/30 14:10:08 PM - src.logger - INFO - Updated [PBI nominal (Var. %)=5.0000] in table pbi_anual for period 2027.0
+2025/05/30 14:10:08 PM - src.logger - INFO - Updated [Demanda interna sin inventarios (Var.% real)=2.5000] in table pbi_anual for period 2027.0
+2025/05/30 14:10:08 PM - src.logger - INFO - Updated [Crédito de consumo (Var.% nominal anual)=8.0000] in table consumo_anual for period 2027.0
+2025/05/30 14:10:09 PM - src.logger - INFO - Updated [Consumo privado (Var.% real)=2.8000] in table consumo_anual for period 2027.0
+2025/05/30 14:10:09 PM - src.logger - INFO - Updated [Consumo público (Var.% real)=2.2000] in table consumo_anual for period 2027.0
+2025/05/30 14:10:09 PM - src.logger - INFO - Updated [Consumo total (Var.% real)=2.7000] in table consumo_anual for period 2027.0
+2025/05/30 14:10:09 PM - src.logger - INFO - Updated [Inversión privada (Var.% real)=2.8000] in table inversion_anual for period 2027.0
+2025/05/30 14:10:10 PM - src.logger - INFO - Updated [Inversión pública (Var.% real)=-2.3000] in table inversion_anual for period 2027.0
+2025/05/30 14:10:10 PM - src.logger - INFO - Updated [Inversión total (Var.% real)=1.7000] in table inversion_anual for period 2027.0
+2025/05/30 14:10:10 PM - src.logger - INFO - Skipping [Importación de bienes de capital, sin materiales de construcción (Var.% real)] in table inversion_anual for period 2027.0
+2025/05/30 14:10:10 PM - src.logger - INFO - Updated [Exportaciones (Var.% real)=2.6000] in table comercio_exterior_anual for period 2027.0
+2025/05/30 14:10:11 PM - src.logger - INFO - Updated [Importaciones (Var.% real)=2.7000] in table comercio_exterior_anual for period 2027.0
+2025/05/30 14:10:11 PM - src.logger - INFO - Updated [PBI Agropecuario (Var.% real)=3.3000] in table agropecuario_anual for period 2027.0
+2025/05/30 14:10:11 PM - src.logger - INFO - Updated [PBI Agrícola (Var.% real)=3.6000] in table agropecuario_anual for period 2027.0
+2025/05/30 14:10:12 PM - src.logger - INFO - Updated [PBI Pecuario (Var.% real)=2.7000] in table agropecuario_anual for period 2027.0
+2025/05/30 14:10:12 PM - src.logger - INFO - Updated [PBI Nacional agropecuario (S/ Miles del 2007)=376686096.9050] in table agropecuario_anual for period 2027.0
+2025/05/30 14:10:12 PM - src.logger - INFO - Updated [PBI Pesca (Var.% real)=0.0000] in table pesca_anual for period 2027.0
+2025/05/30 14:10:13 PM - src.logger - INFO - Updated [PBI Nacional Pesca (S/ Miles del 2007)=24804141.2527] in table pesca_anual for period 2027.0
+2025/05/30 14:10:13 PM - src.logger - INFO - Updated [PBI Nacional Pesca (Var. % real)=0.0000] in table pesca_anual for period 2027.0
+2025/05/30 14:10:13 PM - src.logger - INFO - Updated [PBI Manufactura (Var.% real)=2.2000] in table manufactura_anual for period 2027.0
+2025/05/30 14:10:14 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (S/ Miles del 2007)=727341189.7411] in table manufactura_anual for period 2027.0
+2025/05/30 14:10:14 PM - src.logger - INFO - Updated [PBI Nacional Manufactura (Var. % real)=2.4069] in table manufactura_anual for period 2027.0
+2025/05/30 14:10:14 PM - src.logger - INFO - Updated [PBI Manufactura no primaria (Var.% real)=2.5000] in table manufactura_anual for period 2027.0
+2025/05/30 14:10:15 PM - src.logger - INFO - Updated [PBI Manufactura primaria (Var.% real)=1.5000] in table manufactura_anual for period 2027.0
+2025/05/30 14:10:15 PM - src.logger - INFO - Updated [Minería e Hidrocarburos (Var.% real)=-0.4000] in table mineria_anual for period 2027.0
+2025/05/30 14:10:15 PM - src.logger - INFO - Updated [PBI Minería  (Var.% real)=-1.0000] in table mineria_anual for period 2027.0
+2025/05/30 14:10:16 PM - src.logger - INFO - Updated [PBI Nacional Minería e hidrocarburos (S/ Miles del 2007)=728372343.9553] in table mineria_anual for period 2027.0
+2025/05/30 14:10:16 PM - src.logger - INFO - Updated [PBI Hidrocarburos (Var.% real)=4.0000] in table hidrocarburos_anual for period 2027.0
+2025/05/30 14:10:16 PM - src.logger - INFO - Updated [PBI Comercio (Var.% real)=3.0000] in table comercio_anual for period 2027.0
+2025/05/30 14:10:17 PM - src.logger - INFO - Updated [PBI Nacional Comercio (S/ Miles del 2007)=686906668.3563] in table comercio_anual for period 2027.0
+2025/05/30 14:10:17 PM - src.logger - INFO - Updated [PBI Construcción (Var.% real)=2.5000] in table construccion_anual for period 2027.0
+2025/05/30 14:10:17 PM - src.logger - INFO - Skipping [Gasto público en construcción total (Var. % real)] in table construccion_anual for period 2027.0
+2025/05/30 14:10:17 PM - src.logger - INFO - Updated [PBI Nacional Construcción (S/ Miles del 2007)=404505339.3553] in table construccion_anual for period 2027.0
+2025/05/30 14:10:17 PM - src.logger - INFO - Skipping [Consumo interno de cemento (Var.%)] in table construccion_anual for period 2027.0
+2025/05/30 14:10:18 PM - src.logger - INFO - Updated [PBI Servicios (Var.% real)=3.3000] in table pbi_otros_anual for period 2027.0
+2025/05/30 14:10:18 PM - src.logger - INFO - Skipping [PBI Nacional Administración pública (S/ Miles del 2007)] in table pbi_otros_anual for period 2027.0
+2025/05/30 14:10:18 PM - src.logger - INFO - Skipping [PBI Nacional Otros servicios (S/ Miles del 2007)] in table pbi_otros_anual for period 2027.0
+2025/05/30 14:10:18 PM - src.logger - INFO - Skipping [PBI Nacional Administración pública (Var. % real)] in table pbi_otros_anual for period 2027.0
+2025/05/30 14:10:18 PM - src.logger - INFO - Skipping [PBI Nacional Otros servicios (Var. % real)] in table pbi_otros_anual for period 2027.0
+2025/05/30 14:10:18 PM - src.logger - INFO - Updated [Inflación (%, fdp)=2.5000] in table inflacion_anual for period 2027.0
+2025/05/30 14:10:18 PM - src.logger - INFO - Updated [Inflación, promedio de período (%)=2.5000] in table inflacion_anual for period 2027.0
+2025/05/30 14:10:18 PM - src.logger - INFO - Updated [Índice de precios al consumidor Lima Metropolitana=120.1550] in table inflacion_anual for period 2027.0
+2025/05/30 14:10:19 PM - src.logger - INFO - Updated [Resultado fiscal (% del PBI)=-2.0000] in table financiero_anual for period 2027.0
+2025/05/30 14:10:19 PM - src.logger - INFO - Updated [Deuda pública (% del PBI)=34.9000] in table financiero_anual for period 2027.0
+2025/05/30 14:10:19 PM - src.logger - INFO - Updated [Cuenta corriente (% del PBI)=1.8000] in table financiero_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Updated [Tipo de cambio, promedio de período (S/ por US$)=3.7500] in table financiero_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (S/ Miles del 2007)=12523188.0356] in table electricidad_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Updated [PBI Nacional Electricidad (Var. % real)=3.5488] in table electricidad_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [PBI Nacional Alojamiento y restaurante (S/ Miles del 2007)] in table turismo_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [PBI Nacional Alojamiento y restaurante (Var. % real)] in table turismo_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [Gasto público en construcción Lima (Var. % real)] in table construccion_regional_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Norte (Var. % real)] in table construccion_regional_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Sur (Var. % real)] in table construccion_regional_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Oriente (Var. % real)] in table construccion_regional_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Centro (Var. % real)] in table construccion_regional_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [PBI Nacional Transporte (S/ Miles del 2007)] in table transporte_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [PBI Nacional Transporte (Var. % real)] in table transporte_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [PBI Nacional Telecomunicaciones (S/ Miles del 2007)] in table telecom_anual for period 2027.0
+2025/05/30 14:10:20 PM - src.logger - INFO - Skipping [PBI Nacional Telecomunicaciones (Var. % real)] in table telecom_anual for period 2027.0
+2025/05/30 14:10:21 PM - src.logger - INFO - Updated [PBI nominal (US$ millones)=350760.0000] in table pbi_anual for period 2028.0
+2025/05/30 14:10:21 PM - src.logger - INFO - Updated [Demanda interna (Var.% real)=2.8000] in table pbi_anual for period 2028.0
+2025/05/30 14:10:21 PM - src.logger - INFO - Updated [PBI per cápita (US$)=9770.5000] in table pbi_anual for period 2028.0
+2025/05/30 14:10:21 PM - src.logger - INFO - Skipping [PBI Nacional (S/ Miles del 2007)] in table pbi_anual for period 2028.0
+2025/05/30 14:10:21 PM - src.logger - INFO - Skipping [PBI Nacional no primario (S/Miles del 2007)] in table pbi_anual for period 2028.0
+2025/05/30 14:10:22 PM - src.logger - INFO - Updated [PBI real (Millones de S/ del 2007)=650227.1345] in table pbi_anual for period 2028.0
+2025/05/30 14:10:22 PM - src.logger - INFO - Updated [PBI nominal (Millones de S/)=1315349.8736] in table pbi_anual for period 2028.0
+2025/05/30 14:10:22 PM - src.logger - INFO - Updated [PBI nominal (Var. %)=5.2000] in table pbi_anual for period 2028.0
+2025/05/30 14:10:23 PM - src.logger - INFO - Updated [Demanda interna sin inventarios (Var.% real)=2.6000] in table pbi_anual for period 2028.0
+2025/05/30 14:10:23 PM - src.logger - INFO - Skipping [Crédito de consumo (Var.% nominal anual)] in table consumo_anual for period 2028.0
+2025/05/30 14:10:23 PM - src.logger - INFO - Updated [Consumo privado (Var.% real)=2.8000] in table consumo_anual for period 2028.0
+2025/05/30 14:10:23 PM - src.logger - INFO - Updated [Consumo público (Var.% real)=1.6000] in table consumo_anual for period 2028.0
+2025/05/30 14:10:24 PM - src.logger - INFO - Updated [Consumo total (Var.% real)=2.6000] in table consumo_anual for period 2028.0
+2025/05/30 14:10:24 PM - src.logger - INFO - Updated [Inversión privada (Var.% real)=2.7000] in table inversion_anual for period 2028.0
+2025/05/30 14:10:24 PM - src.logger - INFO - Updated [Inversión pública (Var.% real)=1.9000] in table inversion_anual for period 2028.0
+2025/05/30 14:10:25 PM - src.logger - INFO - Updated [Inversión total (Var.% real)=2.5000] in table inversion_anual for period 2028.0
+2025/05/30 14:10:25 PM - src.logger - INFO - Skipping [Importación de bienes de capital, sin materiales de construcción (Var.% real)] in table inversion_anual for period 2028.0
+2025/05/30 14:10:25 PM - src.logger - INFO - Updated [Exportaciones (Var.% real)=2.8000] in table comercio_exterior_anual for period 2028.0
+2025/05/30 14:10:25 PM - src.logger - INFO - Updated [Importaciones (Var.% real)=2.7000] in table comercio_exterior_anual for period 2028.0
+2025/05/30 14:10:25 PM - src.logger - INFO - Updated [PBI Agropecuario (Var.% real)=3.3000] in table agropecuario_anual for period 2028.0
+2025/05/30 14:10:26 PM - src.logger - INFO - Updated [PBI Agrícola (Var.% real)=3.6000] in table agropecuario_anual for period 2028.0
+2025/05/30 14:10:26 PM - src.logger - INFO - Updated [PBI Pecuario (Var.% real)=2.7000] in table agropecuario_anual for period 2028.0
+2025/05/30 14:10:26 PM - src.logger - INFO - Skipping [PBI Nacional agropecuario (S/ Miles del 2007)] in table agropecuario_anual for period 2028.0
+2025/05/30 14:10:26 PM - src.logger - INFO - Updated [PBI Pesca (Var.% real)=0.0000] in table pesca_anual for period 2028.0
+2025/05/30 14:10:26 PM - src.logger - INFO - Skipping [PBI Nacional Pesca (S/ Miles del 2007)] in table pesca_anual for period 2028.0
+2025/05/30 14:10:26 PM - src.logger - INFO - Skipping [PBI Nacional Pesca (Var. % real)] in table pesca_anual for period 2028.0
+2025/05/30 14:10:27 PM - src.logger - INFO - Updated [PBI Manufactura (Var.% real)=1.9000] in table manufactura_anual for period 2028.0
+2025/05/30 14:10:27 PM - src.logger - INFO - Skipping [PBI Nacional Manufactura (S/ Miles del 2007)] in table manufactura_anual for period 2028.0
+2025/05/30 14:10:27 PM - src.logger - INFO - Skipping [PBI Nacional Manufactura (Var. % real)] in table manufactura_anual for period 2028.0
+2025/05/30 14:10:27 PM - src.logger - INFO - Updated [PBI Manufactura no primaria (Var.% real)=2.1000] in table manufactura_anual for period 2028.0
+2025/05/30 14:10:27 PM - src.logger - INFO - Updated [PBI Manufactura primaria (Var.% real)=1.4000] in table manufactura_anual for period 2028.0
+2025/05/30 14:10:28 PM - src.logger - INFO - Updated [Minería e Hidrocarburos (Var.% real)=1.0000] in table mineria_anual for period 2028.0
+2025/05/30 14:10:28 PM - src.logger - INFO - Updated [PBI Minería  (Var.% real)=1.0000] in table mineria_anual for period 2028.0
+2025/05/30 14:10:28 PM - src.logger - INFO - Skipping [PBI Nacional Minería e hidrocarburos (S/ Miles del 2007)] in table mineria_anual for period 2028.0
+2025/05/30 14:10:28 PM - src.logger - INFO - Updated [PBI Hidrocarburos (Var.% real)=1.0000] in table hidrocarburos_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Updated [PBI Comercio (Var.% real)=3.0000] in table comercio_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Skipping [PBI Nacional Comercio (S/ Miles del 2007)] in table comercio_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Updated [PBI Construcción (Var.% real)=2.7000] in table construccion_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Skipping [Gasto público en construcción total (Var. % real)] in table construccion_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Skipping [PBI Nacional Construcción (S/ Miles del 2007)] in table construccion_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Skipping [Consumo interno de cemento (Var.%)] in table construccion_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Updated [PBI Servicios (Var.% real)=3.3000] in table pbi_otros_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Skipping [PBI Nacional Administración pública (S/ Miles del 2007)] in table pbi_otros_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Skipping [PBI Nacional Otros servicios (S/ Miles del 2007)] in table pbi_otros_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Skipping [PBI Nacional Administración pública (Var. % real)] in table pbi_otros_anual for period 2028.0
+2025/05/30 14:10:29 PM - src.logger - INFO - Skipping [PBI Nacional Otros servicios (Var. % real)] in table pbi_otros_anual for period 2028.0
+2025/05/30 14:10:30 PM - src.logger - INFO - Updated [Inflación (%, fdp)=2.5000] in table inflacion_anual for period 2028.0
+2025/05/30 14:10:30 PM - src.logger - INFO - Updated [Inflación, promedio de período (%)=2.5000] in table inflacion_anual for period 2028.0
+2025/05/30 14:10:30 PM - src.logger - INFO - Updated [Índice de precios al consumidor Lima Metropolitana=122.5790] in table inflacion_anual for period 2028.0
+2025/05/30 14:10:30 PM - src.logger - INFO - Skipping [Resultado fiscal (% del PBI)] in table financiero_anual for period 2028.0
+2025/05/30 14:10:30 PM - src.logger - INFO - Skipping [Deuda pública (% del PBI)] in table financiero_anual for period 2028.0
+2025/05/30 14:10:30 PM - src.logger - INFO - Skipping [Cuenta corriente (% del PBI)] in table financiero_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Updated [Tipo de cambio, promedio de período (S/ por US$)=3.7500] in table financiero_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [PBI Nacional Electricidad (S/ Miles del 2007)] in table electricidad_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [PBI Nacional Electricidad (Var. % real)] in table electricidad_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [PBI Nacional Alojamiento y restaurante (S/ Miles del 2007)] in table turismo_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [PBI Nacional Alojamiento y restaurante (Var. % real)] in table turismo_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [Gasto público en construcción Lima (Var. % real)] in table construccion_regional_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Norte (Var. % real)] in table construccion_regional_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Sur (Var. % real)] in table construccion_regional_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Oriente (Var. % real)] in table construccion_regional_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [Gasto público en construcción Zona Centro (Var. % real)] in table construccion_regional_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [PBI Nacional Transporte (S/ Miles del 2007)] in table transporte_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [PBI Nacional Transporte (Var. % real)] in table transporte_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [PBI Nacional Telecomunicaciones (S/ Miles del 2007)] in table telecom_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Skipping [PBI Nacional Telecomunicaciones (Var. % real)] in table telecom_anual for period 2028.0
+2025/05/30 14:10:31 PM - src.logger - INFO - Updated annually variables

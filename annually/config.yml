@@ -1,0 +1,23 @@
+profile: !ENV ${PROFILE}
+
+database_url: !ENV ${DATABASE_URL}
+
+number_of_years_ahead_for_projections: 3
+
+sharepoint:
+  username: !ENV ${SHAREPOINT_USER}
+  password: !ENV ${SHAREPOINT_PASSWORD}
+  site: !ENV ${SHAREPOINT_SITE}
+  site_name: !ENV ${SHAREPOINT_SITE_NAME}
+  doc: !ENV ${SHAREPOINT_DOC}
+
+
+excel_database: 
+  file_name: "Base Matriz.xlsm"
+  folder_name: "01. Bases de datos/Base Matriz"
+
+email:
+  subject: "update-datasae-sql-from-excel-base-matriz-annually"
+  sender: !ENV ${SENDER_EMAIL}
+  receiver: !ENV ${RECEIVER_EMAIL}
+  app_password: !ENV ${APP_PASSWORD}

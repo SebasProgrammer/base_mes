@@ -1,0 +1,13 @@
+2025/06/04 11:13:46 AM - src.logger - INFO - Logging timestamps are respect to America/Lima timezone
+2025/06/04 11:13:59 AM - src.logger - INFO - Updated Tipo de cambio de Bolivia (boliviano por US$, pdp) = nan for period Setiembre/2025
+2025/06/04 11:13:59 AM - src.logger - INFO - Updated Tipo de cambio de Bolivia (boliviano por US$, pdp) = nan for period Octubre/2025
+2025/06/04 11:13:59 AM - src.logger - INFO - Updated Tipo de cambio de Bolivia (boliviano por US$, pdp) = nan for period Noviembre/2025
+2025/06/04 11:13:59 AM - src.logger - INFO - Updated Tipo de cambio de Bolivia (boliviano por US$, pdp) = nan for period Diciembre/2025
+2025/06/04 11:13:59 AM - src.logger - ERROR - nan is not in list
+Traceback (most recent call last):
+  File "/Users/sebastianarana/Documents/GitHub/update-datasae-sql-from-excel-base-matriz/monthly/main.py", line 56, in <module>
+    fetch_base_matriz_excel_to_update_sql_tables()
+  File "/Users/sebastianarana/Documents/GitHub/update-datasae-sql-from-excel-base-matriz/monthly/main.py", line 40, in fetch_base_matriz_excel_to_update_sql_tables
+    month_number = 1+MONTHS.index(month_name)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: nan is not in list
