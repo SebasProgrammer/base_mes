@@ -9,6 +9,8 @@ from src.error_manager import send_email
 import sqlalchemy
 import psycopg2
 
+import pandas as pd
+
 FILE_NAME = config['excel_database']['file_name']
 FOLDER_NAME = config['excel_database']['folder_name']
 DB_URL = config['database_url']
@@ -26,10 +28,10 @@ def fetch_base_matriz_excel_to_update_sql_tables():
     with engine.connect() as connection:
         
         num_rows = len(base_mes_dataframe)
-        for idx in range(num_rows-8, num_rows):
+        for idx in range(num_rows-18, num_rows):
             for column in base_mes_dataframe.columns:
             
-                if column not in ['Tipo de cambio de Bolivia (boliviano por US$, pdp)']:
+                if column not in ['Tipo de cambio de Japon (yen por US$, pdp)']:
                     continue
 
                 year = base_mes_dataframe.loc[idx,'Año']
@@ -37,14 +39,18 @@ def fetch_base_matriz_excel_to_update_sql_tables():
                 print(year)
                 
                 month_name = base_mes_dataframe.loc[idx, 'Mes']
-                month_number = 1+MONTHS.index(month_name)
+                if pd.isna(month_name) or month_name not in MONTHS:
+                    logger.warning(f"Mes inválido '{month_name}' en fila {idx}, año {year}. Se omite.")
+                    continue
+
+                month_number = 1 + MONTHS.index(month_name)
                 value = base_mes_dataframe.loc[idx, column]
 
                 query = create_update_query(column, value, int(year), month_number)
                 
                 if query:
                     connection.execute(sqlalchemy.text(query))
-                    # connection.commit()
+                    connection.commit()
                 
                 try:
                     logger.info(f'Updated {column} = {value:.4f} for period {month_name}/{int(year)}')
